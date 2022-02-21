@@ -1,0 +1,36 @@
+subject always conjugate the verb and in normal sentence the order is subject + verb
+	e.g.
+		Ich wohne in Berlin. (I live in Berlin.)
+		ch bin müde. (I am tired.)
+
+
+w-fragen (w-questions):
+	w-word + verb + subject
+	w-word:
+		wie: how (not a complete correspondence)
+		welche: which
+		was: what
+		wo: where
+		woher: where from
+		wie viel: how much
+
+	e.g.
+		woher kommst du?
+			(where you came from?)
+		wie ist dein Familienname?
+			(what is your family name?)
+
+ja/nein-fragen (yes or no):
+	verb + subject + ...
+	e.g.
+		Wohnst du in Müchen?
+			(do you live in munich?)
+		Kommen sie aus Deutschland?
+			(you came from germany?)
+
+verb conjugation
+	word change forms in regards to pronouns / nouns used, 
+	    rules to come, also see words.txt for some intuitions...
+
+
+	
