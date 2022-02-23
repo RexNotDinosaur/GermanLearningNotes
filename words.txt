@@ -1,64 +1,67 @@
-pronouns
-		first person singular(I): ich
-		first person plural(we): wir
-		second person singular (you, informal): du
-		second person plural (you all, formal): ihr
-		second person singular (you, formal): Sie (note that case matter...)
-		second person plural (you all, formal): Sie
-		third person:
-			maskulin (he): er
-			feminin (she): sie
-			neutral (it): es
 
-			plural (they): sie
-
-	harben (to have):
-		word conjugation:
-			ich habe, du hast, Sie harben, 	er/sie/es hat, 
-			wir haben, ihr habt, Sie harben, sie harben
+harben (to have):
+	word conjugation:
+		ich habe, du hast, Sie harben, 	er/sie/es hat, 
+		wir haben, ihr habt, Sie harben, sie harben
 			
-		e.g.
-			Ich habe ein Haus. 
-				I have a house.
-			Hast du eine Freundin?
-				Do you have a girlfriend?
-			Wir harben ein Auto.
-				We have a car.
-			Habt ihr Kinder?
-				You have kids?
-			Frau Schmidt, haben Sie einen Moment?
-				You have a moment?
-			Er hat keine Zeit.
-				He has no time.
-
-		if subject is a proper noun / noun phrase, the conjugation should be similar
-			to pronoun case
-			e.g.
-				Maria hat eine Tochter. 
-					Maria has a daughter.
-				Meine Eltern haben einen Hund.
-					My parents have a dog.
+	e.g.
+		Ich habe ein Haus. 
+			I have a house.
+		Hast du eine Freundin?
+			Do you have a girlfriend?
+		Wir harben ein Auto.
+			We have a car.
+		Habt ihr Kinder?
+			You have kids?
+		Frau Schmidt, haben Sie einen Moment?
+			You have a moment?
+		Er hat keine Zeit.
+			He has no time.
+			
+		Maria hat eine Tochter. 
+			Maria has a daughter.
+		Meine Eltern haben einen Hund.
+			My parents have a dog.
 		
-	sein (to be)
-		ich bin, du bist, Sie sind, er/sie/es ist,
-		wir sind, ihr seid, Sie sind, sie sind
+sein (to be)
+	ich bin, du bist, Sie sind, er/sie/es ist,
+	wir sind, ihr seid, Sie sind, sie sind
 
-		a word with special forms, but haben mostly follows the rule
+	a word with special forms, but haben mostly follows the rule
 
-		e.g.	
-			Ich bin 24 Jahre alt.
-				I'm 24 years old.
-			Bist du verliebt?
-				Are you in love?
-			Wir sind  glücklich.
-				We are happy.
-			Seid ihr glücklich?
-				Are you guys happy?
-			Sind Sie zu Hause?
-				Are you at home?
-			Er ist verheiratet.
-				He's married.
-			Sabine ist Lehrerin.
-				Sabine is a teacher.
-			Meine Nachbarn sind sehr nett.
-				My neighbors are very nice.
+	e.g.	
+		Ich bin 24 Jahre alt.
+			I'm 24 years old.
+		Bist du verliebt?
+			Are you in love?
+		Wir sind  glücklich.
+			We are happy.
+		Seid ihr glücklich?
+			Are you guys happy?
+		Sind Sie zu Hause?
+			Are you at home?
+		Er ist verheiratet.
+			He's married.
+		Sabine ist Lehrerin.
+			Sabine is a teacher.
+		Meine Nachbarn sind sehr nett.
+			My neighbors are very nice.
+
+
+heißen: to be called, regular verb
+wohnen: to live, regular verb
+machen: to do, regular verb
+spielen: to play, regular verb
+studieren: to study, regular verb
+arbeiten: to work, regular verb
+
+schlafen: to sleep, irregular verb
+essen: to eat, irregular verb
+sehen: to see, irregular verb
+nehmen: to take, irregular verb
+treffen: to meet, irregular verb
+fahren: to drive, irregular verb
+
+wissen: to know, irregular, and very special
+	ich: weiß (not wisse), du: weißt, Sie: wissen, er/sie/es: weiß (not weisst)
+	wir: wissen, ihr: wisst, Sie wissen, sie: wissen

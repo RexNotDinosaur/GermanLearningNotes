@@ -1,0 +1,72 @@
+pronouns
+	first person singular(I): ich
+	first person plural(we): wir
+	second person singular (you, informal): du
+	second person plural (you all, formal): ihr
+	second person singular (you, formal): Sie (note that case matter...)
+	second person plural (you all, formal): Sie
+	third person:
+		maskulin (he): er
+		feminin (she): sie
+		neutral (it): es
+
+		plural (they): sie
+
+
+verbs
+	inifitive form of verb (the one commonly written in dictionaries):
+		stem + ending (either -en or -n)
+		e.g.
+			heißen
+			sprechen
+			...
+
+	verb conjugation:
+		depends on subject of sentence
+			first / second / third person		
+			singular / plural
+		
+		all the conjugated forms are verb stem (Verbstamm) + the proper ending (Endung)
+			
+		regular verb (regelmäßige verben):
+			stems always keep the same in conjugation
+
+			verb conjugation in present tense:
+				first person singular (ich): -e
+				first person plural (wir): -en
+				second person singular (du): -st
+				second person singular (Sie): -en
+				second person plural (ihr): -t
+				second person plural (Sie): -en
+				third person single (er/sie/es): -t
+				third person plural (sie): -en
+
+				e.g.	
+					lernen (to learn):
+						ich lerne, du: lernst, Sie: lernen, er/sie/es: lernt 
+						wir: lernen , ihr: lernt, Sie: lernen, sie: lernen
+
+			some special cases:
+				if verb stem ends in s, ß, or z, then the ending -st becomes -t
+					e.g.
+						reisen (to travel):
+							ich reise, du: reist, Sie: reisen, er/sie/es: reist
+							wir: reisen, ihr: reist, Sie: reisen, sie: reisen
+				if verb stem ends in d or t, then the ending -st becomes -est
+					and -t becomes -et	
+					e.g. 
+						arbeiten (to work):
+							ich: arbeite, du: arbeitest, Sie: arbeiten, er/sie/es: arbeitet
+							wir: arbeiten, ihr: arbeitet, Sie arbeiten, sie: arbeiten
+
+		irregular verb(unregelmäßige verben):
+			the stem will change for the -st and -t form of the SINGULAR case
+				(not including the -t for ihr): it changes the vowel with
+				some possibilities:
+				e -> i		(e.g. sprechen -> du sprichst)
+				e -> ie		(e.g. lesen -> du liest)
+				au -> äu	(e.g. laufen -> du läufst)
+				a -> ä		(e.g. fahren -> du fährst)
+				i -> ei		(e.g. wissen -> du weißt, btw wissen is very special, see words)
+		
+ 
