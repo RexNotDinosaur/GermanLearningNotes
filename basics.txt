@@ -34,3 +34,46 @@ numbering:
 			74 vierundsiebzig
 			...
 		
+
+	hundreds:
+		number + hundert (except 100 can be just (ein)hundert)
+		e.g.
+			700 seibenhundert
+			400 vierhundret
+			..
+	thousands:
+		same rule as hundreds except it ends with tausend
+
+	beyond ten thousands:
+		still counting in thousands:
+			10 000 zehntausend
+			11 000 elftausend
+			...
+			100 000 hunderttausend
+			200 000 zweihunderttausend
+			...
+	
+	1 000 000: eine Million
+	2 000 000: zwei Millionen (note the -en)
+	3 000 000: drei Millionen
+	10 000 000: zehn Millionen
+	50 000 000: fünfzig Millionen
+	100 000 000: (ein)hundert Millionen
+	
+	1 000 000 000: eine Milliarde
+	2 000 000 000: zwei Milliarden
+
+	and except for the ten digit and the single digit, all the other orders are the same as other languages
+	
+
+
+
+years in German:
+	if first two digits are not tens:
+		first two digits + hundert + other two digits
+		e.g.
+			1975: neunzehnhundertfünfundseibzig
+	if first two digits is a tens: then just read out the number
+		e.g.
+			2017: zweitausendseibzehn
+		

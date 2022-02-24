@@ -65,3 +65,94 @@ fahren: to drive, irregular verb
 wissen: to know, irregular, and very special
 	ich: weiß (not wisse), du: weißt, Sie: wissen, er/sie/es: weiß (not weisst)
 	wir: wissen, ihr: wisst, Sie wissen, sie: wissen
+
+
+
+
+groß: big, adj
+klein small, adj
+	e.g. 
+		Ein Elefant ist groß, aber eine Katze ist klein
+			an elephant is big but a cat is small.
+
+schnell: fast, adj
+langsam: slow, adj
+	e.g.
+		Ein Zug ist schnell, aber ein Fahrrad ist langsam
+			a train is fast but a bicyle is small
+
+dunkel: dark, adj
+hell: light, adj
+	e.g.
+		Ein Espresso ist dunkel, aber eine Latte ist hell.
+			An expresso is dark-colored but a Latte is light-colored.
+
+glücklich: happy, adj
+traurig: sad, adj
+	e.g.
+		Paul ist glücklich, aber Robert ist traurig.
+			Paul is happy but Robert is sad.
+
+
+lang: long, adj
+kurz: short, adj
+	e.g.
+		Meine Haare sind lang, aber deine Haare sind kurz.
+			my hair is long but your hair is short
+
+warm: warm, adj
+kühl: cool, adj
+	e.g.
+		Im Sommer ist es warm, aber im Winter ist es kühl
+			in summer it is hot but in winter it is cool
+
+heiß: hot, adj
+kalt: cold, adj
+	e.g.
+		Kaffee trinkt man heiß, aber Limonade kalt.
+			one drinks coffee hot but lemonade cold.
+richtig: correct, adj
+falsch: wrong, adj
+	Meine Antwort ist richtig, aber eine Antwort ist falsch.
+		my answer is correct but your answer is wrong
+
+dick: fat, adj
+dünn: thin, adj
+	e.g.
+		Philipp ist dick, aber Maria ist dünn.
+			Philipp is fat but Maria is thin
+
+alt: old, adj
+neu: new, adj
+	e.g.
+		Mein Auto ist alt, aber dein Auto ist neu.
+			My car is old but your car is new
+
+arm: poor, adj
+reich: rich, adj
+	e.g.
+		Der Mann ist arm, aber die Frau ist reich.
+			the man is poor, but the woman is rich
+
+doof: dumb, adj
+intelligent: intelligent, adj
+	e.g.
+		Ein Esel ist doof, aber ein Fuchs ist intelligent.
+			A donkey is dumb but a fox is intelligent.
+
+gut: good, adj
+schlecht: bad, adj
+	e.g.
+		Lachen ist gut, aber Stress ist schlecht.
+			Laughter is good but stress is bad
+
+schwer: heavy, adj
+leicht: light, adj
+
+alt: old, adj
+jung: young, adj
+
+teuer: expensive, adj
+billig: cheap, adj
+
+

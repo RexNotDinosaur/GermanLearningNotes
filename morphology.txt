@@ -70,3 +70,4 @@ verbs
 				i -> ei		(e.g. wissen -> du weißt, btw wissen is very special, see words)
 		
  
+
