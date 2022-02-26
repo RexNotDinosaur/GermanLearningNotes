@@ -77,3 +77,104 @@ years in German:
 		e.g.
 			2017: zweitausendseibzehn
 		
+
+time in German (die Zeit)
+	die Uhr / die Uhren: the clock / the clocks
+	die Woche / die Wochen: the week / the weeks
+	der Tag / die Tage: the day / the days
+		e.g. Eine Woche hat 7 Tage
+	die Stunde / die Stunden: the hour / the hours
+	die Minute / die Minuten: the minute / the minutes
+	die Sekunde / die Sekunden: the second / the seconds
+
+	offizielle Zeit (official time, 24 hour format):
+		hours: number + Uhr
+			e.g.
+				null Uhr
+				zwanzig Uhr
+				only small change is that 1:10 is ein Uhr (not eins)
+				...
+
+		hour + minute: hour represent + number for the minutes
+			e.g.
+				- wie spät ist es? (what time is it?)
+				- es ist dreizehn Uhr zwanzig. (13:20)
+
+				siebzehn Uhr zweiundvierzig (17:42)
+		
+	inoffizielle Zeit (inofficial time, 12 hour format):
+		hours: just the number	
+			e.g.
+				- wie spät ist es? (what time is it?)
+				- es ist zwei. (it is two o'clock (morning / afternoon not given))
+
+				note zwölf can represent both noon or midnight.
+				you can also say Mitternacht
+		hour + minutes: 
+			minute number + nach (means after) + hour number 
+				(a bit similar to the English expression
+				<minute> past <hour>)
+			minute number + vor (means before) + next hour number 
+				(basically just <minute> to <hour>)
+			note: a quarter is Viertel
+				also if it is :30, then it is halb + <next hour number>
+
+			when it is only within 5 minutes away from the half hour	
+				<minute number> vor / nach halb <next hour number> :25 ~ :35 
+
+			when it is about to be a complete hour:
+				kurz vor <hour number>
+				gleich <hour number>
+				fast <hour number>
+
+			when it is a bit after an hour:
+				kurz nach <hour number>
+
+			and when about half hours:
+				kurz vor / nach halb <next hour number>
+			e.g.
+				- Wie spät ist es?
+				- Es ist zehn nach ein. (1:10) 
+					Viertel nach ein. (1:15)
+					zwanzig vor zwei. (1:40)
+					Viertel vor zwei. (1:45)
+					halb zwei. (1:30)
+					fünf vor halb zwei. (1:25)
+					fünf nach halb zwei. (1:35)
+					kurz vor fünf. (about to be 5)
+					gleich fünf.(about to be 5)
+					fast fünf.(about to be 5)
+					kurz nach fünf.(a bit after 5)
+					kurz vor halb zehn. (a bit before 9:30)
+					kurz nach halb zehn. (a bit after 9:30)
+					(the hours above might differ by 12 hours)
+					
+possesive pronouns:
+	ich -> mein / meine (when following noun is masculine, neutral use mein,
+				or if following noun is feminine, plural use meine
+				basically just follow ein and eine)
+		e.g.
+			Das ist mein Auto.
+			Das ist meine Katze. (cat)
+			Das sind meine Bücher. (books)
+
+	du -> dein / deine
+		e.g.
+			Ist das dein Fernseher? (is that your tv?)
+			Ist das deine Katze?
+			Sind das deine Bücher?
+
+	er -> sein / seine 
+
+	sie (as she) -> ihr / ihre
+
+	es -> sein / seine
+
+	wir -> unser / unsere
+
+	ihr -> euer / eure
+	
+	Sie (both for you and you all in formal) -> Ihr / Ihre
+
+	sie (as they) -> ihr / ihre
+	
