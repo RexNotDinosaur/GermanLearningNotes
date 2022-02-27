@@ -72,40 +72,122 @@ verbs
  
 
 articles:
-	Satz (sentence) = Subjekt (Nominativ) + Verb 
-		and verb conjugates with the Subjekt
-	Subjekt can either be a noun or a pronoun, and in the noun case an article is placed
-		before the noun (by the way all nouns start with capital letter in German)
-	definiter/bestimmte Artikel
-		der: masculine
-			e.g.
-				der Mann (the man)
-		die: feminine, or plural
-			e.g.
-				die Frau (the women, feminine)
-				die Mäanner (the men, plural)
-		das: neutral
-			e.g.
-				das Baby (the baby)
+	Norminativ case:
+		Satz (sentence) = Subjekt (Nominativ) + Verb 
+			and verb conjugates with the Subjekt
+		Subjekt can either be a noun or a pronoun, and in the noun case an article is placed
+			before the noun (by the way all nouns start with capital letter in German)
+		definiter/bestimmte Artikel
+			der: masculine
+				e.g.
+					der Mann (the man)
+			die: feminine, or plural
+				e.g.
+					die Frau (the women, feminine)
+					die Mäanner (the men, plural)
+			das: neutral
+				e.g.
+					das Baby (the baby)
 
-		(note common nouns of things also might be masculine or feminine)
-	indefiniter/unbestimmte Artikel
-		ein: masculine / neutral
-			e.g.
-				Das ist ein Mann. (masculine)
-				Das ist ein Mädchen (little girl). (neutral)
-		eine: feminine	
-			e.g.
-				Das ist eine Frau. (feminine)
+			(note common nouns of things also might be masculine or feminine)
+		indefiniter/unbestimmte Artikel
+			ein: masculine / neutral
+				e.g.
+					Das ist ein Mann. (masculine)
+					Das ist ein Mädchen (little girl). (neutral)
+			eine: feminine	
+				e.g.
+					Das ist eine Frau. (feminine)
 
-		we may choose to not add unbestimmte Artikel in plural case
-	Negationsartikel (negative article)
-		kein (when you should use ein, in negation you use kein)
+			we may choose to not add unbestimmte Artikel in plural case
+		Negationsartikel (negative article)
+			kein (when you should use ein, in negation you use kein)
+				e.g.
+					Das ist kein Kuli (pen). (masculine)
+					Das ist kein Buch. (neutral)
+			keine (when you should use eine, in negation you use keine, or in plural case
+				you also use keine)
+				e.g.
+					Das ist keine Blume (flower). (feminine)
+					Das sind keine Sterne (stars). (plural)
+
+	Akkusativ case:
+		accusative case, basically means direct object of the verb
+		basically things only differ from the Nominativ case in masculine
+		
+		definiter/bestimmte Artikel
+			den: masculine
+				Wie findest du den Hut? (how do you find the hat)
+			die: feminine, or plural
+				Wie findest du die Hose? (how do you fidn the pants) (feminine)
+				Wie findest du die Schuhe? (how do you find the shoes) (plural)
+			das: neutral
+				Wie findest du das Kleid? (how do you find the dress)
+		indefiniter/unbestimmte Artikel
+			einen: masculine
+				e.g.
+					Ich esse einen Apfel. (I eat an apple)
+			eine: feminine		
+				e.g.
+					Ich habe eine Katze. (I havea a cat)
+
+			ein: neutral
+					Wir haben ein Baby.
+			again none for plural case
+		Negationsartikel (negative article)
+			keinen: masculine
+				e.g.
+					Ich habe keinen Kuli.
+			keine: feminine and plural
+				e.g.
+					Ich habe keine Uhr. (feminine)
+					Ich habe keine Kinder. (plural)
+			kein: neutral
+				e.g.
+					Ich habe kein Lineal. (no ruler)
+
+possesive pronouns:
+	Nominativ:
+		ich -> mein / meine (when following noun is masculine, neutral use mein,
+					or if following noun is feminine, plural use meine)
 			e.g.
-				Das ist kein Kuli (pen). (masculine)
-				Das ist kein Buch. (neutral)
-		keine (when you should use eine, in negation you use keine, or in plural case
-			you also use keine)
+				Das ist mein Auto.
+				Das ist meine Katze. (cat)
+				Das sind meine Bücher. (books)
+
+		du -> dein / deine
 			e.g.
-				Das ist keine Blume (flower). (feminine)
-				Das sind keine Sterne (stars). (plural)
+				Ist das dein Fernseher? (is that your tv?)
+				Ist das deine Katze?
+				Sind das deine Bücher?
+
+		er -> sein / seine 
+
+		sie (as she) -> ihr / ihre
+
+		es -> sein / seine
+
+		wir -> unser / unsere
+
+		ihr -> euer / eure
+	
+		Sie (both for you and you all in formal) -> Ihr / Ihre
+
+		sie (as they) -> ihr / ihre
+
+	Akkusativ:
+		ich -> meinen (masculine) / meine (feminine plural) / mein (neutral)
+		du -> deinen / deine / dein
+
+		er -> seinen / seine /sein
+
+		sie (as she or as they) -> ihren / ihre / ihr
+
+		es -> seinen / seine /sein
+
+		wir -> unseren / unsere / unser
+
+		ihr -> eueren / eure / euer
+	
+		Sie (both for you and you all in formal) -> Ihren / Ihre / Ihr
+

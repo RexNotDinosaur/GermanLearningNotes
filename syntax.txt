@@ -13,6 +13,7 @@ w-fragen (w-questions):
 		wo: where
 		woher: where from
 		wie viel: how much
+		wen: whom
 
 	e.g.
 		woher kommst du?

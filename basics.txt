@@ -149,32 +149,3 @@ time in German (die Zeit)
 					kurz nach halb zehn. (a bit after 9:30)
 					(the hours above might differ by 12 hours)
 					
-possesive pronouns:
-	ich -> mein / meine (when following noun is masculine, neutral use mein,
-				or if following noun is feminine, plural use meine
-				basically just follow ein and eine)
-		e.g.
-			Das ist mein Auto.
-			Das ist meine Katze. (cat)
-			Das sind meine Bücher. (books)
-
-	du -> dein / deine
-		e.g.
-			Ist das dein Fernseher? (is that your tv?)
-			Ist das deine Katze?
-			Sind das deine Bücher?
-
-	er -> sein / seine 
-
-	sie (as she) -> ihr / ihre
-
-	es -> sein / seine
-
-	wir -> unser / unsere
-
-	ihr -> euer / eure
-	
-	Sie (both for you and you all in formal) -> Ihr / Ihre
-
-	sie (as they) -> ihr / ihre
-	

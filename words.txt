@@ -156,3 +156,17 @@ teuer: expensive, adj
 billig: cheap, adj
 
 
+Vater: masculine noun, father
+Mutter: feminine noun, mother
+Eltern: plural noun, parents
+Bruder: masculine noun, brother
+Schwester: feminine noun, sister
+Geschewister: plural noun, siblings
+Großvater: masculine noun, grandfather
+Großmutter: feminine noun, grandmother
+Großeltern: plural noun, grandparents
+Onkel: masculine noun, uncle
+Tante: feminine noun, aunt
+Cousine: feminine noun, female cousin
+Cousin: masculine noun, male cousin
+
