@@ -13,7 +13,12 @@ w-fragen (w-questions):
 		wo: where
 		woher: where from
 		wie viel: how much
+		wie viele: how may
+		wie oft: how often
 		wen: whom
+		warum: why
+		wann: when
+		wohin: where to
 
 	e.g.
 		woher kommst du?
@@ -29,9 +34,41 @@ ja/nein-fragen (yes or no):
 		Kommen sie aus Deutschland?
 			(you came from germany?)
 
-verb conjugation
-	word change forms in regards to pronouns / nouns used, 
-	    rules to come, also see words.txt for some intuitions...
+
+modal verb:
+	put the modal verb in the original verb's position and original verb is moved to end
+		of sentence.
+		original verb no longer conjugate and take the -en form
+		e.g.
+			Ich möchte Ärztin werden. 
+				I would like to become a doctor
+				(möchte in second position, and werden (to become) moved to the end)
+
+			Was möchtest du essen? 
+				What would you like to eat?
+				(möchtest before du as the verb in w-fragen, and essen moved to the end)
+
+			Möchtest du ins Kino gehen? 
+				Would you like to go to cinema? 
+				(möchtest at start of sentence as the ja/nein fragen's verb, and gehen moved to the end)
+
+	sometimes the original verb might be removed because the modal verb is self-expressive
+		(in this case you can just think of them as normal verb)
+		e.g.
+			Ich möchte eine Cola (bestellen). 
+				I want some Coke. 
+				(do not need to verb bestellen: to order)
+
+	modal verbs:
+		möchten: 
+			express a wish
+			order something
+			(see examples above)
+			conjugation:
+				ich möchte, du möchtest, Sie möchten, er/sie/es möchte (sepcial case here),
+				wir möchten, ihr möchtet, Sie möchten, sie möchten
+			
+		
 
 
 	

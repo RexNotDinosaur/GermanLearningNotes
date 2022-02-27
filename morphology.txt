@@ -191,3 +191,6 @@ possesive pronouns:
 	
 		Sie (both for you and you all in formal) -> Ihren / Ihre / Ihr
 
+
+
+
