@@ -66,7 +66,48 @@ numbering:
 	and except for the ten digit and the single digit, all the other orders are the same as other languages
 	
 
+ordinal numbers:
+	note when you use articles on ordinal numbers, the conjugation 
+		agrees with the noun folloiwng it
+		e.g.
+			das erste Kind
+			die erste Liebe
+	
+	1st: erste (normal usage) / ersten (used with dates)
+	2nd: zweite / am zweiten
+	3rd: dritte / am dritten
+	4th: vierte / am vierten
+	5th: fünfte / am fünften
+	6th: sechste / am sechsten
+	7th: seibte / am seibten
+	8th: achte / am achten
+	9th: neunte / am neuten
+	10th: zehnte / am zehnten
+	11th: elfte / am elften
+	12th: zwölfte / am zwölften
+	13th  ~ 19th: just add -te / -ten
+	
 
+	20th: zwanzigste / am zwanzigsten
+	21st: einundzwanzigste / am einundzwanzigsten
+	...  all follow the same rule till 99th
+	
+
+	100th: hundertste / am hundertsten
+	101st: einhunderterste
+	102nd: einhundertzweite
+	103rd: einhundertdritte
+	... follow similar rule till 999th
+	
+	1000th: tausendste
+
+	e.g.
+		Heute ist der sechste April. (today is April 6th)
+		Sie kommt am sechsten April. (today is April 6th)
+		Ich wurde am sechsten Vierten geboren. (I was born in April 6th)
+		Ich habe am sechsten Paril Geburstag. (My birthday is on April 6th)
+		Das dritte Haus von links ist mein Haus. (the 3rd house from left is my house)
+	
 
 years in German:
 	if first two digits are not tens:

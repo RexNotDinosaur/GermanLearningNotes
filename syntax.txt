@@ -19,6 +19,7 @@ w-fragen (w-questions):
 		warum: why
 		wann: when
 		wohin: where to
+		wem: asking for the dativ (for whom / to whom)
 
 	e.g.
 		woher kommst du?

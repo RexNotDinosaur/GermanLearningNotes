@@ -1,16 +1,31 @@
 pronouns
-	first person singular(I): ich
-	first person plural(we): wir
-	second person singular (you, informal): du
-	second person plural (you all, formal): ihr
-	second person singular (you, formal): Sie (note that case matter...)
-	second person plural (you all, formal): Sie
-	third person:
-		maskulin (he): er
-		feminin (she): sie
-		neutral (it): es
+	nominativ:
+		first person singular(I): ich
+		first person plural(we): wir
+		second person singular (you, informal): du
+		second person plural (you all, formal): ihr
+		second person singular (you, formal): Sie (note that case matter...)
+		second person plural (you all, formal): Sie
+		third person:
+			maskulin (he): er
+			feminin (she): sie
+			neutral (it): es
 
-		plural (they): sie
+			plural (they): sie
+	
+	akkusativ:
+		first person singular(I): mich
+		first person plural(we): uns
+		second person singular (you, informal): dich
+		second person plural (you all, formal): euch
+		second person singular (you, formal): Sie
+		second person plural (you all, formal): Sie
+		third person:
+			maskulin (he): ihn
+			feminin (she): sie
+			neutral (it): es
+
+			plural (they): sie
 
 
 verbs
@@ -145,6 +160,46 @@ articles:
 			kein: neutral
 				e.g.
 					Ich habe kein Lineal. (no ruler)
+	Dativ case:
+		basically it means indirect object
+		for instance
+			die Mutter kauft der Tochter ein Kleid.
+		which means the mother bought the daughter a dress
+			mother is the nominative (subject)
+			dress is the akkusativ (direct object)
+			daughter is the dativ (indirect object)
+		usually dative case is a person, the person to whom the action is intended
+
+		definiter/bestimmte Artikel
+			dem: masculine
+				Petra kocht dem Mann eine Suppe.
+					(Petra cooks the husband soup)
+			der: feminine, or plural
+				Der Weihnachtsmann gibt der Frau ein Geschenk.
+					(Santa gives the woman a gift)
+			dem: neutral
+				Der Weihnachtsmann gibt dem Kind ein Geschenk.
+					(Santa gives the kid gift)
+			den: plural, and an "n" is added to the end of the noun
+				Der Weihnachtsmann gibt den Kindern Süßigkeiten.
+					(Sant gives the kid sweets)
+		indefiniter/unbestimmte Artikel
+			einem: masculine / neutral
+				e.g.
+					Er bringt einem Gast das Essen. (masculine)
+						(he brough guest the food)
+					Er bringt einem Kind das Essen. (neutral)
+			einer: feminine	
+				e.g.
+					Er bringt einer Frau das Essen. (feminine)
+			plural: add -n to the noun in the end
+			
+		negative Artikel:
+			keinem: masculine / neutral
+			keiner: feminine
+			keinen: plural, also add -n to noun in the end
+				
+		
 
 possesive pronouns:
 	Nominativ:
