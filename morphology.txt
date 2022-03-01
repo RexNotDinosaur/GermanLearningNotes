@@ -3,7 +3,7 @@ pronouns
 		first person singular(I): ich
 		first person plural(we): wir
 		second person singular (you, informal): du
-		second person plural (you all, formal): ihr
+		second person plural (you all, informal): ihr
 		second person singular (you, formal): Sie (note that case matter...)
 		second person plural (you all, formal): Sie
 		third person:
@@ -17,7 +17,7 @@ pronouns
 		first person singular(I): mich
 		first person plural(we): uns
 		second person singular (you, informal): dich
-		second person plural (you all, formal): euch
+		second person plural (you all, informal): euch
 		second person singular (you, formal): Sie
 		second person plural (you all, formal): Sie
 		third person:
@@ -26,6 +26,19 @@ pronouns
 			neutral (it): es
 
 			plural (they): sie
+	dativ:	
+		first person singular(I): mir
+		first person plural(we): uns
+		second person singular (you, informal): dir
+		second person plural (you all, informal): euch
+		second person singular (you, formal): Ihnen
+		second person plural (you all, formal): Ihnen
+		third person:
+			maskulin (he): ihm
+			feminin (she): ihr
+			neutral (it): ihm
+
+			plural (they): ihnen
 
 
 verbs
@@ -246,6 +259,17 @@ possesive pronouns:
 	
 		Sie (both for you and you all in formal) -> Ihren / Ihre / Ihr
 
+	Dativ:
+		ich -> meinem (masculine / neutral)/ meiner (female) / meinen (plural, and add extra -n to the word)
+		
+		du -> deinem / deiner / deinen
+		
+		Sie -> Ihrem / Ihrer / Ihren		
 
+		er / es -> seinem / seiner / seinen
 
+		sie -> ihrem / ihrer / ihren
 
+		wir -> unserem / unserer / unseren
+
+		ihr -> eurem / eurer / euren

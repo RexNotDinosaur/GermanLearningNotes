@@ -11,6 +11,7 @@ w-fragen (w-questions):
 		welche: which
 		was: what
 		wo: where
+		wer: who
 		woher: where from
 		wie viel: how much
 		wie viele: how may
