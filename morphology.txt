@@ -39,63 +39,6 @@ pronouns
 			neutral (it): ihm
 
 			plural (they): ihnen
-
-
-verbs
-	inifitive form of verb (the one commonly written in dictionaries):
-		stem + ending (either -en or -n)
-		e.g.
-			heißen
-			sprechen
-			...
-
-	verb conjugation:
-		depends on subject of sentence
-			first / second / third person		
-			singular / plural
-		
-		all the conjugated forms are verb stem (Verbstamm) + the proper ending (Endung)
-			
-		regular verb (regelmäßige verben):
-			stems always keep the same in conjugation
-
-			verb conjugation in present tense:
-				first person singular (ich): -e
-				first person plural (wir): -en
-				second person singular (du): -st
-				second person singular (Sie): -en
-				second person plural (ihr): -t
-				second person plural (Sie): -en
-				third person single (er/sie/es): -t
-				third person plural (sie): -en
-
-				e.g.	
-					lernen (to learn):
-						ich lerne, du: lernst, Sie: lernen, er/sie/es: lernt 
-						wir: lernen , ihr: lernt, Sie: lernen, sie: lernen
-
-			some special cases:
-				if verb stem ends in s, ß, or z, then the ending -st becomes -t
-					e.g.
-						reisen (to travel):
-							ich reise, du: reist, Sie: reisen, er/sie/es: reist
-							wir: reisen, ihr: reist, Sie: reisen, sie: reisen
-				if verb stem ends in d or t, then the ending -st becomes -est
-					and -t becomes -et	
-					e.g. 
-						arbeiten (to work):
-							ich: arbeite, du: arbeitest, Sie: arbeiten, er/sie/es: arbeitet
-							wir: arbeiten, ihr: arbeitet, Sie arbeiten, sie: arbeiten
-
-		irregular verb(unregelmäßige verben):
-			the stem will change for the -st and -t form of the SINGULAR case
-				(not including the -t for ihr): it changes the vowel with
-				some possibilities:
-				e -> i		(e.g. sprechen -> du sprichst)
-				e -> ie		(e.g. lesen -> du liest)
-				au -> äu	(e.g. laufen -> du läufst)
-				a -> ä		(e.g. fahren -> du fährst)
-				i -> ei		(e.g. wissen -> du weißt, btw wissen is very special, see words)
 		
  
 
@@ -273,3 +216,103 @@ possesive pronouns:
 		wir -> unserem / unserer / unseren
 
 		ihr -> eurem / eurer / euren
+
+
+
+verbs
+	inifitive form of verb (the one commonly written in dictionaries):
+		stem + ending (either -en or -n)
+		e.g.
+			heißen
+			sprechen
+			...
+
+	verb conjugation:
+		depends on subject of sentence
+			first / second / third person		
+			singular / plural
+		
+		all the conjugated forms are verb stem (Verbstamm) + the proper ending (Endung)
+			
+		regular verb (regelmäßige verben):
+			stems always keep the same in conjugation
+
+			verb conjugation in present tense:
+				first person singular (ich): -e
+				first person plural (wir): -en
+				second person singular (du): -st
+				second person singular (Sie): -en
+				second person plural (ihr): -t
+				second person plural (Sie): -en
+				third person single (er/sie/es): -t
+				third person plural (sie): -en
+
+				e.g.	
+					lernen (to learn):
+						ich lerne, du: lernst, Sie: lernen, er/sie/es: lernt 
+						wir: lernen , ihr: lernt, Sie: lernen, sie: lernen
+
+			some special cases:
+				if verb stem ends in s, ß, or z, then the ending -st becomes -t
+					e.g.
+						reisen (to travel):
+							ich reise, du: reist, Sie: reisen, er/sie/es: reist
+							wir: reisen, ihr: reist, Sie: reisen, sie: reisen
+				if verb stem ends in d or t, then the ending -st becomes -est
+					and -t becomes -et	
+					e.g. 
+						arbeiten (to work):
+							ich: arbeite, du: arbeitest, Sie: arbeiten, er/sie/es: arbeitet
+							wir: arbeiten, ihr: arbeitet, Sie arbeiten, sie: arbeiten
+
+		irregular verb(unregelmäßige verben):
+			the stem will change for the -st and -t form of the SINGULAR case
+				(not including the -t for ihr): it changes the vowel with
+				some possibilities:
+				e -> i		(e.g. sprechen -> du sprichst)
+				e -> ie		(e.g. lesen -> du liest)
+				au -> äu	(e.g. laufen -> du läufst)
+				a -> ä		(e.g. fahren -> du fährst)
+				i -> ei		(e.g. wissen -> du weißt, btw wissen is very special, see words)
+
+
+
+separable verbs:
+	prefix + normal verb, the prefix changes the meaning of the verb
+	
+	the prefix is usually put in the end of the sentence separate from the verb,
+		but when used with modal verbs, it gets combined with the normal verb
+		to form a composite verb at the end of sentence
+	
+	conjugation just follows the original verb
+
+	e.g.
+		Wir gehen zur Schule. Kommst du mit? (mitkommen, come along)
+			we are going to school. do you come along?
+		Kannst du mich um 18 Uhr abholen? (abholen, pick up, holen means to fetch)
+			can you pick me up at 6 p.m.?
+
+		Der Zug fährt um 7 Uhr ab. (abfahren, to depart, fahren means to drive)
+			the train leaves at 7
+
+		Der Bus kommt um 7 Uhr an. (ankommt, to arrive)
+			the bus arrives at 7
+
+		Der Unterricht fängt um 13 Uhr an. (anfangen, to begin, fangen means to catch)
+			The class starts at 13.
+		
+		Am Wochenende kaufen wir in der Stadt ein. (einkaufen: to shop)
+			In teh weekend we shop in the city.
+
+		Peter und Maria sehen am Abend immer fern. (fernsehen, to watch tv)
+			Peter and Maria always watch TV in the evening
+		
+		Kannst du mich heute Abend anrufen? (anrufen, to call, rufen means to shout)
+			Can you call me today in the evening?
+
+		Lädst du mich zu deiner Hochzeit ein? (einladen, to invite, laden means to load)
+			Do you invite me to your wedding?
+
+		Kannst du bitte das Fenster zumache? (zumache, to close, mache means to make)
+			Can you please close the window?
+	

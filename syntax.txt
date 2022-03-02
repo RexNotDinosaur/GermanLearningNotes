@@ -73,4 +73,43 @@ modal verb:
 		
 
 
+
+imperatives:
+	give advice, instruction, command, request
+
+	will only be used when the subjekt is du / ihr / Sie:
+		du: du <stem>-st changes to <stem>, note that for special case some -st forms
+			has -est and we keep the e
+			e.g.
+				du kommst -> Komm!
+				du arbeitest -> arbeite!
+				du machst auf -> mach auf!
+
+		ihr: ihr + <verb in -t form>, this just deletes ihr	
+			e.g.
+				ihr fahrt -> Fahrt!
+	
+		Sie: Sie + <verb in -en form>, this just switch the order of the verb and Sie	
+			Sie lernen -> Lernen Sie!
+
+	some special verbs:
+		harben, sein and werden
+
+		harben:
+			du hast -> hab
+				e.g. Hab Geduld!
+					Be patient!
+		werden:
+			du wirst -> Werde
+				e.g. Werde gesund!
+					Get healthy!
+
+		sein:
+			du bist -> Sei
+			Sie sind -> Seien Sie
+				e.g.
+					Sei froh!
+					Seien Sie froh!
+						Be happy!
+
 	
