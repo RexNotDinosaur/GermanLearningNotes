@@ -315,4 +315,46 @@ separable verbs:
 
 		Kannst du bitte das Fenster zumache? (zumache, to close, mache means to make)
 			Can you please close the window?
-	
+
+
+non-separable verbs:
+	note that separable verbs are not the only verbs that have the forms with
+		prefix + stem, some of the verbs have such form but are not separable
+
+	here are certain prefixes that do this:
+	be-
+		e.g.
+			Wir bekommen bald eine neue Lehrerin. (bekommen: to get)
+				We soon get a new teacher.
+	emp-
+		e.g.
+			Was empfehlen Sie mir heute? (empfehlen: to recommend)
+				What you recommend me today?
+
+	ent-
+		e.g.
+			Am Montag müssen wir die Mülltonne entleeren. (enleeren: to empty)
+				On Monday we have to empty the garbage bin.
+
+	er-
+		e.g.
+			Mein Großvater erzählt interessante Geschichten. (erzählen: to narrate)
+				My grandfather tells interesting stories.
+
+	ge-
+		e.g.
+			Mir gefällt dein neues Haus. (gefallen: to please)
+				I like your new house. (your new house please me lol...)
+
+	miss-
+		e.g.
+			Tom kann nie mein Vertrauen missbrauchen. (missbrauchen: to misuse)
+				Tom can never betray my trust.
+	ver-
+		e.g.
+			Er verkauft sein altes Haus. (verkauft: to sell)
+				He sells his old house.
+	zer-
+		e.g.
+			Ein Erdbeben kann manchmal viele Häuser zerstören. (zerstören: to destroy)
+				An earchquake can sometimes destroy many houses.
