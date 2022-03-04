@@ -227,7 +227,7 @@ verbs
 			sprechen
 			...
 
-	verb conjugation:
+	verb conjugation for present tense:
 		depends on subject of sentence
 			first / second / third person		
 			singular / plural
@@ -274,8 +274,57 @@ verbs
 				au -> äu	(e.g. laufen -> du läufst)
 				a -> ä		(e.g. fahren -> du fährst)
 				i -> ei		(e.g. wissen -> du weißt, btw wissen is very special, see words)
+	present prefect tense (perfekt):
+		The verb gets changed to a help verb (hilfsverb) + Partizip II form of original verb
+		The partizip II verb is moved to the end of sentence
+			e.g.	
+				Ich habe einen Salat gegessen.
+					I have eaten a salad.
+				Was hast du gestern gemacht?
+					What have you done yesterday?
+				Hast du deine Hausafugabe gemacht?
+					Have you done your homework?
 
+		helping verb (sein / harben)
+			harben and sein conjugate like the present tense
+			most verbs use harben as their help verb
+			but they use sein in the following cases:
+				verbs that show a change of place:
+					e.g.
+						fliegen -> ist geflogen
+						Meine Eltern sind gestern nach London geflogen.
+							My parents have flew to London yesterday.
 
+						gehen -> ist gegangen
+						Er ist mit Miriam ins Kino gegangen.
+							He has went to cinema with Miriam.
+
+				verbs that show a change of state
+					e.g.	
+						sterben -> ist gestorben
+						Letzte Woche ist sein Vater gestorben.
+							Last week his father has died.
+
+						einschlafen -> ist eingeschlafen
+						Maria ist im Unterricht eingeschlafen.
+							Maria has fallen asleep in class.
+				and a few some specific verbs:
+					bleiben -> ist geblieben (to remain)
+					sein -> ist gewesen
+					passieren -> ist passiert (to happen)	
+					werden -> ist geworden (to become)
+
+			there are also verbs that can take either sein or haben, this is a
+				result of the multiple possible meanings/usages of the verb where
+				in one usage it may indicate a change of place / state but in
+				another not, and we use sein if there is a change of place / state
+				and haben if not
+				e.g.
+					fahren -> ist/hat gefahren (to drive)
+					Ich bin nach Köln gefahren.
+						I have driven to Cologne.
+					Ich habe mein neues Auto gefahren.
+						I have driven my new car.
 
 separable verbs:
 	prefix + normal verb, the prefix changes the meaning of the verb
