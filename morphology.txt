@@ -274,6 +274,7 @@ verbs
 				au -> äu	(e.g. laufen -> du läufst)
 				a -> ä		(e.g. fahren -> du fährst)
 				i -> ei		(e.g. wissen -> du weißt, btw wissen is very special, see words)
+
 	present prefect tense (perfekt):
 		The verb gets changed to a help verb (hilfsverb) + Partizip II form of original verb
 		The partizip II verb is moved to the end of sentence
@@ -326,6 +327,41 @@ verbs
 					Ich habe mein neues Auto gefahren.
 						I have driven my new car.
 
+		Partizip II form:
+			(ge-) + verbstem + ending (-t / -et / -en)
+
+			regular verb (regelmäßige verben):
+				ge- + verbstem + -t (or -et if verb stem ends with d or t)
+				e.g.
+					machen -> hat gemacht
+					arbeiten -> hat gearbeitet
+
+			verb that ends with -ieren:
+				do not take ge- and add -t
+				e.g.
+					fotografieren -> hat fotografiert
+
+			irregular verbs (unregelmäßige verben):
+				ge- + verb stem, with the change of vowel if there are any + -en
+				e.g.
+					schreiben -> hat geschrieben
+					finden -> hat gefunden
+					kommen -> ist gekommen
+
+			separable verbs:
+				prefix + verb -> prefix + Partizip II form of the verb
+				e.g.
+					einkaufen -> hat eingekauft
+					aufstehen -> ist aufgestanden
+			
+			non-separable verbs:
+				prefix + verb -> prefix + Partizip II form of the verb but without ge-
+				e.g.
+					erklären -> hat erklärt (note that klären -> geklärt)
+					verstehen -> hat verstanden (stehen -> gestanden)
+				
+				
+	
 separable verbs:
 	prefix + normal verb, the prefix changes the meaning of the verb
 	
