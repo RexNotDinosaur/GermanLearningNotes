@@ -1,3 +1,65 @@
+several basic concepts to start with
+	nominativ:
+		Satz (sentence) = Subjekt (Nominativ) + Verb 
+			and verb conjugates with the Subjekt
+		Subjekt can either be a noun or a pronoun, and in the noun case an article is placed
+			before the noun (by the way all nouns start with capital letter in German)
+		there are a few verbs that take only nominativ:
+			sein:
+				e.g.
+					Ich bin Lehrerin. 
+					(not ein Lehrerin, because when you talk about
+					professions, basically the occupation is not the
+					object)
+			
+			werden
+			bleiben 
+
+	akkusativ:
+		accusative case
+		used when the verb takes a direct object
+		may also be used in accusative prepositions:
+			prepositions that take accusative case:
+				bis (until), um (around), ohne (without), durch (through), 
+				für (for), gegen (against), entlang (along)
+			e.g.
+				Ich habe eine Tasche für meinen Bruder.
+					I have a bag for my brother.
+				
+		may also be used with time expressions
+			jeden Tag, jeden Morgen, letzten Sommer, diessen Winter, den ganzen Abend, ...
+		
+	
+	dativ:
+		dative case
+		used when a verb takes an indirect object
+		for instance
+			die Mutter kauft der Tochter ein Kleid.
+			the mother bought the daughter a dress
+			mother is the nominativ (subject)
+			dress is the akkusativ (direct object)
+			daughter is the dativ (indirect object)
+		usually dative case is a person, the person to whom the action is intended
+			
+		may also used in dative prepositions:
+			prepositions that take dative case:
+				von, zu, seit, nach, ab, aus, mit, bei, gegenüber
+
+		there are also dative verbs, in which case you do not necessarily have an accusative
+			but has a dative
+			e.g.
+				Die Uhr gehört mir. (mir is the dative case)
+					The watch belongs to me
+				Wie kann ich Ihnen helfen? (Ihen)
+					How can I help you?
+
+		it is also used with some adjectives:
+			e.g.	
+				Mir ist (es) kalt. 
+					I'm cold. (it is cold for me)
+				Mir ist (es) langweilig.
+					It is boring for me
+
 pronouns
 	nominativ:
 		first person singular(I): ich
@@ -44,10 +106,6 @@ pronouns
 
 articles:
 	Norminativ case:
-		Satz (sentence) = Subjekt (Nominativ) + Verb 
-			and verb conjugates with the Subjekt
-		Subjekt can either be a noun or a pronoun, and in the noun case an article is placed
-			before the noun (by the way all nouns start with capital letter in German)
 		definiter/bestimmte Artikel
 			der: masculine
 				e.g.
@@ -83,7 +141,6 @@ articles:
 					Das sind keine Sterne (stars). (plural)
 
 	Akkusativ case:
-		accusative case, basically means direct object of the verb
 		basically things only differ from the Nominativ case in masculine
 		
 		definiter/bestimmte Artikel
@@ -117,15 +174,6 @@ articles:
 				e.g.
 					Ich habe kein Lineal. (no ruler)
 	Dativ case:
-		basically it means indirect object
-		for instance
-			die Mutter kauft der Tochter ein Kleid.
-		which means the mother bought the daughter a dress
-			mother is the nominative (subject)
-			dress is the akkusativ (direct object)
-			daughter is the dativ (indirect object)
-		usually dative case is a person, the person to whom the action is intended
-
 		definiter/bestimmte Artikel
 			dem: masculine
 				Petra kocht dem Mann eine Suppe.
