@@ -60,6 +60,86 @@ several basic concepts to start with
 				Mir ist (es) langweilig.
 					It is boring for me
 
+
+musculine / feminine / neutral:
+	several rules for guessing...:
+		for people, professions, they generally follow their gender (except babies...)
+		
+		weekdays, months, seasons are masculine
+
+		Norden, Süden, Westen, Osten (north, south, west, east) are masculine
+		
+		weathers are masculine (Regen (rain), Schnee (snow), Blitz (lightening), ...)
+		
+		car brands and companies are masculine...
+
+		alcohols are masculine, except das Bier (beer)
+
+		trees and flowers are feminine...
+
+		nouns that come from verbs / adjectives we use das
+			e.g. das Essen, das Fahren, das Teuerste
+
+		some endings for masculines:
+			-er: e.g. der Koffer
+			-en: e.g. der Rasen
+			-ig: e.g. der Honig
+			-ling: e.g. der Zwilling
+			-or, -ist, -ismus: e.g. der Organisator, der Tourist, der Tourismus
+
+		some endings for feminine:
+			-e: e.g. die Erde
+			-ei: e.g. die Schneiderei
+			-heit: e.g. die Krankheit
+			-keit: e.g. die Süßigkeit
+			-schaft: e.g. die Freundschaft
+			-ung: e.g. die Zeitung
+			-äk, -ik, -ion: e.g. die Nationalität, die Klinik, die Lektion
+			-ie, -ur, -enz: e.g. die Demokratie, die Frisur, die Konferenz
+
+		some endings in neutral:
+			-chen, -lein: e.g. das Mädchen, das Kindlein
+			-ment: e.g. das Monument
+			-nis: e.g. das Ergebnis
+			-tum: e.g. das Brauchtum
+			-um: e.g. das Zentrum
+
+
+		there are exceptions though...
+			some nouns can be used both on men or women:
+				e.g. der Gast
+			some acronym of nouns mess up with endings
+				e.g. der Azubi is short for der/die Auszubildende
+			small people:
+				e.g. das Mädchen (girl), das Kind, das Baby 
+
+
+		
+plural nouns:
+	quite some cases
+
+	add -e:
+		e.g. der Tisch -> die Tische
+	add -e and change the vowel to the double dotted form:
+		e.g. der Stuhl -> die Stühle
+	add -er:
+		e.g. das Kind -> die Kinder
+	add -er and change the vowel to the double dotted form:
+		e.g. das Haus -> die Häuser
+	add -s (many international nouns take this form):
+		e.g. die Kamera -> die Kameras
+	add -(e)n:
+		e.g. die Uhr -> die Uhren, die Lampe -> die Lampen
+	change the vowel to the double dotted form:
+		e.g. der Apfel -> die Äpfel
+	not change at all:
+		e.g. das Fenster -> die Fenster
+	always plural (collection of things / people):
+		e.g. die Leute
+	always singular:
+		e.g. das Geld
+				
+
 pronouns
 	nominativ:
 		first person singular(I): ich
