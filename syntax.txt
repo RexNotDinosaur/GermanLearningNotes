@@ -61,20 +61,7 @@ modal verb:
 			Ich muss jetzt nach Hause (gehen)
 				I must go to home now
 
-	modal verbs:
-		müssen:
-			necessity (have to)
-				e.g.
-					Ich muss heute für eine Prüfung lernen
-			order
-				e.g.
-					Du musst sofort ins Bett!
-						You must go to bed right now
-
-			ich muss, du musst, Sie müssen, er/sie/es muss, 
-			wir müssen, ihr müsst, Sie müssen, sie müssen
-		
-		... MORE TO COME...
+	modal verbs: see words...
 		
 			
 		

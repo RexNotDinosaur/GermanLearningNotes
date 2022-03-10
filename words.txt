@@ -1,32 +1,132 @@
-
-harben:
-	word conjugation:
+verbs:
+	harben:
+		
 		ich habe, du hast, Sie harben, 	er/sie/es hat, 
 		wir haben, ihr habt, Sie harben, sie harben
 
-	can be used to indicate possession / belonging:
-		e.g. 
-			Ich habe eine Gitarre
-			Sie hat zwei Kinder
+		can be used to indicate possession / belonging:
+			e.g. 
+				Ich habe eine Gitarre
+				Sie hat zwei Kinder
 	
-	certain expressions:
-		e.g.
-			Ich habe dich lieb. 
-				I love you
+		certain expressions:
+			e.g.
+				Ich habe dich lieb. 
+					I love you
 			
-			Hast du heute frei?
-				You free today?
-	
-			
+				Hast du heute frei?
+					You free today?		
 	
 		
-sein 
-	ich bin, du bist, Sie sind, er/sie/es ist,
-	wir sind, ihr seid, Sie sind, sie sind
+	sein 
+		ich bin, du bist, Sie sind, er/sie/es ist,
+		wir sind, ihr seid, Sie sind, sie sind
 
 	
-	basically just used as be
-		e.g.
-			Das Wetter ist schön
-			Maria ist Französin
+		basically just used as be
+			e.g.
+				Das Wetter ist schön
+				Maria ist Französin
+
+
+modal verbs:
+	müssen:
+		(must, have to)
+		necessity (have to)
+			e.g.
+				Ich muss heute für eine Prüfung lernen
+		order
+			e.g.
+				Du musst sofort ins Bett!
+					You must go to bed right now
+
+		ich muss, du musst, Sie müssen, er/sie/es muss, 
+		wir müssen, ihr müsst, Sie müssen, sie müssen
+
+
+	können:
+		(can / be able to)
+		ability:
+			e.g.
+				Mona kann gut tanzen.
+					Mona can dance well
+
+		possibility:
+			e.g.
+				Huete kann es regnen
+					today it can rain
+		
+		polite request:
+			e.g.
+				Können Sie mir einen Gefallen tun?
+					Can you do me a favor?
+
+		permission:
+			e.g.
+				Du kannst jetzt gehen.
+					Now you can go
+
+		ich kann, du kannst, Sie Können, er/sie/es kann
+		wir können, ihr könnt, Sie können, sie können
+
+
+	dürfen:
+		(allowed to, may)
+
+		permission:
+			e.g.
+				Sie dürfen hier parken
+					you may park here
+
+		restriction
+			e.g.
+				Sie dürfen hier nicht parken
+					you may not park here
+
+		ich darf, du darfst, Sie dürfen, er/sie/es darf
+		wir dürfen, ihr dürft, Sie dürfen, sie dürfen	
+	
+	
+		
+	mögen:
+		(like to)
+
+		to like something
+			e.g.
+				Ich mag tanzen
+					I like to dance
+
+		ich mag, du magst, Sie mögen, er/sie/es mag
+		wir mögen, ihr mögt, Sie mögen, sie mögen
+
+	wollen:
+		(want to)
+		
+		wish
+			e.g
+				Ich will Pilot werden
+					I want to become pilot
+
+		willingness
+			e.g.
+				Sie will eine Cola trinken
+					she wants to drink a coke
+
+		ich will, du willst, Sie wollen, er/sie/es will
+		wir wollen, ihr wollt, Sie wollen, sie wollen
+
+	sollen:
+		(should)
+		
+		suggestion:
+			e.g.
+				Der Arzt sagt: Sie sollen Medikamente nehmen
+					The doctor says: you should take medicines
+
+		ich soll, du sollst, Sie sollen, er/sie/es soll,	
+		wir sollen, ihr sollt, Sie sollen, sie sollen
+	
+		
+		
+		
 
