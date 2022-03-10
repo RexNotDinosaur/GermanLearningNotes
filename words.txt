@@ -1,172 +1,32 @@
 
-harben (to have):
+harben:
 	word conjugation:
 		ich habe, du hast, Sie harben, 	er/sie/es hat, 
 		wir haben, ihr habt, Sie harben, sie harben
+
+	can be used to indicate possession / belonging:
+		e.g. 
+			Ich habe eine Gitarre
+			Sie hat zwei Kinder
+	
+	certain expressions:
+		e.g.
+			Ich habe dich lieb. 
+				I love you
 			
-	e.g.
-		Ich habe ein Haus. 
-			I have a house.
-		Hast du eine Freundin?
-			Do you have a girlfriend?
-		Wir harben ein Auto.
-			We have a car.
-		Habt ihr Kinder?
-			You have kids?
-		Frau Schmidt, haben Sie einen Moment?
-			You have a moment?
-		Er hat keine Zeit.
-			He has no time.
+			Hast du heute frei?
+				You free today?
+	
 			
-		Maria hat eine Tochter. 
-			Maria has a daughter.
-		Meine Eltern haben einen Hund.
-			My parents have a dog.
+	
 		
-sein (to be)
+sein 
 	ich bin, du bist, Sie sind, er/sie/es ist,
 	wir sind, ihr seid, Sie sind, sie sind
 
-	a word with special forms, but haben mostly follows the rule
-
-	e.g.	
-		Ich bin 24 Jahre alt.
-			I'm 24 years old.
-		Bist du verliebt?
-			Are you in love?
-		Wir sind  glücklich.
-			We are happy.
-		Seid ihr glücklich?
-			Are you guys happy?
-		Sind Sie zu Hause?
-			Are you at home?
-		Er ist verheiratet.
-			He's married.
-		Sabine ist Lehrerin.
-			Sabine is a teacher.
-		Meine Nachbarn sind sehr nett.
-			My neighbors are very nice.
-
-
-heißen: to be called, regular verb
-wohnen: to live, regular verb
-machen: to do, regular verb
-spielen: to play, regular verb
-studieren: to study, regular verb
-arbeiten: to work, regular verb
-
-schlafen: to sleep, irregular verb
-essen: to eat, irregular verb
-sehen: to see, irregular verb
-nehmen: to take, irregular verb
-treffen: to meet, irregular verb
-fahren: to drive, irregular verb
-
-wissen: to know, irregular, and very special
-	ich: weiß (not wisse), du: weißt, Sie: wissen, er/sie/es: weiß (not weisst)
-	wir: wissen, ihr: wisst, Sie wissen, sie: wissen
-
-
-
-
-groß: big, adj
-klein small, adj
-	e.g. 
-		Ein Elefant ist groß, aber eine Katze ist klein
-			an elephant is big but a cat is small.
-
-schnell: fast, adj
-langsam: slow, adj
-	e.g.
-		Ein Zug ist schnell, aber ein Fahrrad ist langsam
-			a train is fast but a bicyle is small
-
-dunkel: dark, adj
-hell: light, adj
-	e.g.
-		Ein Espresso ist dunkel, aber eine Latte ist hell.
-			An expresso is dark-colored but a Latte is light-colored.
-
-glücklich: happy, adj
-traurig: sad, adj
-	e.g.
-		Paul ist glücklich, aber Robert ist traurig.
-			Paul is happy but Robert is sad.
-
-
-lang: long, adj
-kurz: short, adj
-	e.g.
-		Meine Haare sind lang, aber deine Haare sind kurz.
-			my hair is long but your hair is short
-
-warm: warm, adj
-kühl: cool, adj
-	e.g.
-		Im Sommer ist es warm, aber im Winter ist es kühl
-			in summer it is hot but in winter it is cool
-
-heiß: hot, adj
-kalt: cold, adj
-	e.g.
-		Kaffee trinkt man heiß, aber Limonade kalt.
-			one drinks coffee hot but lemonade cold.
-richtig: correct, adj
-falsch: wrong, adj
-	Meine Antwort ist richtig, aber eine Antwort ist falsch.
-		my answer is correct but your answer is wrong
-
-dick: fat, adj
-dünn: thin, adj
-	e.g.
-		Philipp ist dick, aber Maria ist dünn.
-			Philipp is fat but Maria is thin
-
-alt: old, adj
-neu: new, adj
-	e.g.
-		Mein Auto ist alt, aber dein Auto ist neu.
-			My car is old but your car is new
-
-arm: poor, adj
-reich: rich, adj
-	e.g.
-		Der Mann ist arm, aber die Frau ist reich.
-			the man is poor, but the woman is rich
-
-doof: dumb, adj
-intelligent: intelligent, adj
-	e.g.
-		Ein Esel ist doof, aber ein Fuchs ist intelligent.
-			A donkey is dumb but a fox is intelligent.
-
-gut: good, adj
-schlecht: bad, adj
-	e.g.
-		Lachen ist gut, aber Stress ist schlecht.
-			Laughter is good but stress is bad
-
-schwer: heavy, adj
-leicht: light, adj
-
-alt: old, adj
-jung: young, adj
-
-teuer: expensive, adj
-billig: cheap, adj
-
-
-Vater: masculine noun, father
-Mutter: feminine noun, mother
-Eltern: plural noun, parents
-Bruder: masculine noun, brother
-Schwester: feminine noun, sister
-Geschewister: plural noun, siblings
-Großvater: masculine noun, grandfather
-Großmutter: feminine noun, grandmother
-Großeltern: plural noun, grandparents
-Onkel: masculine noun, uncle
-Tante: feminine noun, aunt
-Cousine: feminine noun, female cousin
-Cousin: masculine noun, male cousin
+	
+	basically just used as be
+		e.g.
+			Das Wetter ist schön
+			Maria ist Französin
 
