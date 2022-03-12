@@ -20,11 +20,22 @@ several basic concepts to start with
 		used when the verb takes a direct object
 		may also be used in accusative prepositions:
 			prepositions that take accusative case:
-				bis (until), um (around), ohne (without), durch (through), 
-				für (for), gegen (against), entlang (along)
+				bis (to / by ...(some time) / up to, pick the endpoint of something), 
+				ohne (without),
+				um (at (some time), around (some position)),  
+				durch (through), 
+				für (for), 
+				gegen (around (time), against, contra), 
+				entlang (along)
 			e.g.
 				Ich habe eine Tasche für meinen Bruder.
 					I have a bag for my brother.
+
+			a note on englang: it gets put after the noun phrase instead of before
+			e.g.
+				Sie geht den Strand englang spazieren
+					she goes for a walk along the beach
+					here den Strand (the beach) is the noun phrase for entlang
 				
 		may also be used with time expressions
 			jeden Tag, jeden Morgen, letzten Sommer, diessen Winter, den ganzen Abend, ...
@@ -43,7 +54,24 @@ several basic concepts to start with
 			
 		may also used in dative prepositions:
 			prepositions that take dative case:
-				von, zu, seit, nach, ab, aus, mit, bei, gegenüber
+				von (from, of, a note is that von + dem ==> vom), 
+				zu (toward, to, note zu + dem ==> zum, zu + der ==> zur), 	
+				seit (since, as of), 
+				nach (to, towards, after (some time), past, according to), 
+				ab (starting from), 
+				aus (from, out of), 
+				mit (with, can also do mit + <age> to say at ... age), 
+				bei (by <some place / company>, with <someone>, nearby, note that bei + dem ==> beim),  
+				gegenüber (opposite to, as against)...
+
+			e.g.
+				Wir gehen mit unseren Kindern nach Paris.
+					We are going with our children to Paris
+	
+			note gegenüber might be sometimes used after the noun
+				e.g.
+					Du sitzt mir gegenüber (gegenüber after mir)
+						You sit opposite to me
 
 		there are also dative verbs, in which case you do not necessarily have an accusative
 			but has a dative
