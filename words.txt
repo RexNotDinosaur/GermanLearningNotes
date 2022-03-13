@@ -127,6 +127,54 @@ modal verbs:
 		wir sollen, ihr sollt, Sie sollen, sie sollen
 	
 		
-		
-		
+conjunction words:
+	conjunction in position null:
+		in position null means that it is put before the first word in sentence of the
+			second conjuncated phrase
+			(say, the subject of a normal sentence)
+			(also this is before we remove the redundant parts)
+		oder:
+			or
+			e.g.
+				Max fährt nach Berlin oder er bleibt zu Hause
+					Max will go to Berlin or he stay home
+				Am Wochende besuche ich meine Tante oder meine Oma
+					On weekend I visit my aunt or my grandma
+					(the second 'ich besuche' eliminated)
+
+		sondern
+			but, but rather
+			must put comma before sondern
+			compared to aber only used in one special case, that is, it is 
+			used when the first sentence is negative:
+				e.g.
+					Er liebt mich nicht, sondern Petra
+						He does not love me but Petra
+					Ich kaufe das Geschenk nicht für mich, sondern für meine Mutter
+						I buy this gift not for myself but for my mom
+				
+
+		und	
+			and
+			e.g.
+				Ich esse einen Hamburger und trinke einen Saft
+					I eat a hamburger and drink a juice
+				Sabina und Michael spielen mit ihren Freunden.
+					Sabina and Michael play with their friends.
+
+		denn
+			because
+			must put a comma before denn
+			usually would not remove any duplicated parts (subject / verb ... )
+				you know, because it just does not feel right...
+			e.g.
+				Ich lerne Deutsch, denn ich will in Deutschland studieren.
+					I learn german because I want to study in Germany
+
+		aber
+			but
+			when used between two sentences, must put a comma before aber
+			e.g.
+				Er wollte ins Kino gehen, aber alle Tickets waren ausverkauft
+					He wanted to go to the cinema but all tickets were sold out
 
