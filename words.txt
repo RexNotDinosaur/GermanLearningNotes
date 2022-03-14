@@ -178,3 +178,48 @@ conjunction words:
 				Er wollte ins Kino gehen, aber alle Tickets waren ausverkauft
 					He wanted to go to the cinema but all tickets were sold out
 
+
+
+adverbs:
+	sehr
+		very, can be used before adjectives:
+			e.g.
+				Du siehst heute sehr schön aus.
+					you look very pretty today
+
+		can also indicate high intensity of things, placed after verbs
+			e.g.
+				Diese Schuhe gefallen mir sehr.
+					I like these shoes a lot.
+
+		zu sehr: too much (note not in the sense of quantity much more like intensity)
+			e.g.
+				Er fährt schnell, aber nicht zu sehr.
+					He drives fast but not too much	
+
+		zehr viel: a great deal, plenty of
+			e.g.
+				Auf der Party haben wier sehr viel getanzt.
+					We danced a lot at the party
+	viel
+		much, a lot, when talking about quantity, mostly after verb, 	
+		can be also used as pronoun
+			e.g.
+				Das Handy kostet nicht viel
+					the mobile phone does not cost much
+				Er hat nicht viel gegessen
+					he has not eaten a lot
+
+				Heute habe ich viel Zeit
+					I have a lot of time today
+
+		zu viel: too much
+			e.g.
+				Er trinkt zu viel Kaffee.
+					he drinked too much coffee
+
+		viel zu viel: way too much
+			e.g.
+				Sie arbeitet viel zu viel
+					she worked too much
+				
