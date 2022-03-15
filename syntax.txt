@@ -105,4 +105,39 @@ imperatives:
 					Seien Sie froh!
 						Be happy!
 
+
+
+nebensatz (subordinate clause)
+	<conjunction> + sentence
+		verb in the subordinate clause pushed to end of sentence (separable verbs
+			combined back)
+		also by pushing verb to the end, it refers to the main verb.
+			if it is the perfect form, push habe/sein to the end after the verb
+			if it is modal verb, similarly push the modal verb after the verb
+	also always put comma before conjunction
+
+	conjunctions:
+		dass:
+			basically I think it transforms the clause into a noun
+				and the usage is pretty much like "that" in English
+				when the sentence is complete (no missing clauses
+				that need the conjunction to fill the position)
+				e.g.
+					Ich denke, dass Deutch einfach ist. 
+						I think German is easy....... (no.....)
+						(the subordinate clause act as a noun)
+					
+					Es ist wichtig, dass du dich gut ernährst
+						It is important that you eat well
+						(it is pretty much like the "it is ... that..."
+						not sure if it is appositive)
+
+					Es ist schön, dass du die Prüfung bestanden hast
+						it is nice that you have passed the exam	
+						(hast pushed to the end)
+					Ich bin mir sicker, dass du besser schreiben kannst
+						I am sure you can write better
+						(kannst pushed to the end)
+
+								
 	
