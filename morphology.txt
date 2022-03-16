@@ -599,3 +599,57 @@ non-separable verbs:
 		e.g.
 			Ein Erdbeben kann manchmal viele Häuser zerstören. (zerstören: to destroy)
 				An earchquake can sometimes destroy many houses.
+
+
+
+adjectives:
+	adj's change endings in different cases when they are before the nouns
+		(but not really if they are not decorating any noun...)
+		e.g.
+			Sandra ist schön
+			Sandra ist eine schöne Frau
+	when the noun is the nominative
+		if the noun is already taking a definite article, then it adds -e if singular
+			and -en if plural
+			e.g.
+				Der nette Mann arbeitet als Pilot.
+					The nice man works as a pilot.
+				Die roten Rosen sind schön
+					The red roses are beautiful
+		if the noun is already taking an indefinite article, then the adj gets ending
+			in following way: 
+			maskuline -> -er
+			feminine -> -e 
+			neutral -> -es
+			plural -> -en (but we do not have indefinite article in this case lol...)
+			e.g.
+				Er ist ein netter Mann
+				Sie ist eine schöne Frau
+				Das ist ein kleines Kind.
+	
+		if possesitve article, same as indefinite article
+			e.g.
+				Mein junger Sohn ist krank
+				Meine neue Tasche ist schön
+				Mein kleines Baby weint
+					My little baby cries.
+				Meine alten Bücher habe ich immer noch.
+					I still have my old book
+
+		if negative article, same as indefinite article
+
+		if we do not use article (title, ...), then everything same as indefinite article
+			except -e for plural
+
+
+		when adj end with -el or -er, we usually remove the e before changing forms
+			e.g. dunkle -> dunkle / dunkler / dunkles / dunklen
+		
+		when adj ends with vowels, then do not take any endings
+			e.g.
+				lila -> lila
+
+		there are also exceptions...
+
+		
+			

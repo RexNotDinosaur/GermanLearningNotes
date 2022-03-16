@@ -139,5 +139,18 @@ nebensatz (subordinate clause)
 						I am sure you can write better
 						(kannst pushed to the end)
 
+		causual clauses (weil or da)
+			represent reasons
+			e.g.
+				Ich bin spät, weil/da ich denn Zug verpasst habe.
+					I am late because I have missed the train
+
+			weil/da are mostly the same except da is used more in spoken language
+			weil and da can also be put before the main clause, and the main clause
+				will need to start with verb
+
+			e.g.
+				Da/weil ich krank bin, kann ich nicht arbeiten.
+					Because I am ill, I cannot work
 								
 	
