@@ -139,7 +139,7 @@ nebensatz (subordinate clause)
 						I am sure you can write better
 						(kannst pushed to the end)
 
-		causual clauses (weil or da)
+		causual subclauses (weil or da)
 			represent reasons
 			e.g.
 				Ich bin spät, weil/da ich denn Zug verpasst habe.
@@ -152,5 +152,20 @@ nebensatz (subordinate clause)
 			e.g.
 				Da/weil ich krank bin, kann ich nicht arbeiten.
 					Because I am ill, I cannot work
+
+		conditional subclauses (wenn, falls, sofern):
+			represent actions only taking place under conditions
+			wenn:
+				when / if
+				e.g.
+					Ich komme nach Hause, wenn ich Zeit habe.
+						I come home when I have time.
 								
+
+			falls:
+				in the case when
+				(a bit less sure then wenn that the condition will happen)
+				e.g.
+					Falls ich morgen komme, gehen wir einkaufen.
+						In the case I come tmr, we go shopping
 	

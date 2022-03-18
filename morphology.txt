@@ -618,16 +618,15 @@ adjectives:
 					The red roses are beautiful
 		if the noun is already taking an indefinite article, then the adj gets ending
 			in following way: 
-			maskuline -> -er
-			feminine -> -e 
-			neutral -> -es
-			plural -> -en (but we do not have indefinite article in this case lol...)
+			maskuline -> -er (as in der)
+			feminine -> -e (as in die)
+			neutral -> -es (as in das???)
 			e.g.
 				Er ist ein netter Mann
 				Sie ist eine schöne Frau
 				Das ist ein kleines Kind.
 	
-		if possesitve article, same as indefinite article
+		if possesitve article, same as indefinite article, and for plural add -en
 			e.g.
 				Mein junger Sohn ist krank
 				Meine neue Tasche ist schön
@@ -636,10 +635,10 @@ adjectives:
 				Meine alten Bücher habe ich immer noch.
 					I still have my old book
 
-		if negative article, same as indefinite article
+		if negative article, same as possesitve article
 
 		if we do not use article (title, ...), then everything same as indefinite article
-			except -e for plural
+			and -e for plural
 
 
 		when adj end with -el or -er, we usually remove the e before changing forms
@@ -651,5 +650,72 @@ adjectives:
 
 		there are also exceptions...
 
-		
+
+	when the noun is akkusativ
+		if noun is taking defienite article
+			masculine -> -en
+			feminine -> -e
+			neutral -> -e
+			plural -> -en
+			e.g.
+				Magst du 
+				den großen Hund 
+				/ die schwarze Katze
+				/ das schicke Auto
+				/ die neuen Schuhe
+				von Maria?
+
+		if noun is taking an indefinite article
+			masculine -> -en (as in den)
+			feminine -> -e (as in die)
+			neutral -> -es (as in das)
+			e.g.
+				Ich habe einen großen Hund 
+					/ eine schwarze Katze 
+					/ ein schickes Auto
+
+		negative articles:
+			same as indefnite article and -en for plural
+
+		possesive artciles:
+			same as negative article
 			
+
+		if no artcile:
+			same as indefinite article and -e for plural
+
+	
+	when the noun is dativ
+		definite artcile:
+			always -en
+			e.g.
+				Hilfst du bitte
+				dem alten Mann
+				/ der netten Frau
+				/ dem kleinen Kind
+				/ den süßen Kindern
+				da?
+		indefinite article:
+			always -en
+			e.g.
+				Er spricht mit
+				einem alten Mann
+				/ einer netten Frau
+				/ einem kleinen Kind
+			
+		negative article:
+			always -en
+
+		possesive article:
+			same as negative article
+
+		if no article
+			masculine: -em
+			feminine: -er
+			neutral: -em	
+			plural: -en
+			e.g.
+				altem Mann		
+				netter Frau
+				kleinem Kind
+				süßen Kindern
