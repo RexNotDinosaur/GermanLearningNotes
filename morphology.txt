@@ -719,3 +719,86 @@ adjectives:
 				netter Frau
 				kleinem Kind
 				süßen Kindern
+
+	when the noun is genitiv
+		definite article
+			always -en
+			e.g.
+				das Haus des alten Mannes
+				das Haus der alten Frau
+				die Eltern des kleinen Kindes
+				die Eltern der frechen Kinder
+		indefinte article
+			always -en
+			e.g.
+				das Auto eines alten Mannes
+				das Auto einer alten Frau
+				der Vater eines kleinen Kindes
+		
+		possesive article
+			always -en
+			e.g.
+				das Handy meines alten Onkels
+				das Handy meiner alten Tante
+				das Spielzeug meines kleinen Kindes
+				das Speilzeuge meiner frechen Kinder
+
+		no article:
+			no article for genitiv is very rare in spoken language
+			-en for masculine and neutral
+			-er for feimine and plural
+			e.g.
+				Das Haus alten Mannes
+				Das Huas alter Frau
+				Die Mutter kleinen Kindes
+				Die Mutter frencher Kinder
+			
+		
+
+
+Genitiv case:
+	it shows possession and belonging
+		('s, ... of ...)
+
+	if the possessing noun is a person's name, then we add s, and if name ends in s or x, we use '
+		e.g.
+			Tanjas Haus (Tanja's house)
+			Hans' Auto (Hans' car)
+
+
+	if definite article:
+		a changed article + an ending for the possessed noun sometimes
+		masculine: der => des + -(e)s
+		feminine: die => der
+		neutral: das => des + -(e)s
+		plural: der
+		btw for the -(e)s, you use -es for single-syllable nouns and
+			nouns that end with s,ß,x,z
+			e.g.
+				Das Auto des Mannes ist neu (the Man's car)
+				Das Kleid der Frau ist teuer (the Women's dress)
+				Die Augen des Kindes sind groß (the child's eyes)
+				Die Eltern der Kinder sind nett (the kids' parents)
+
+	if indefinite article:	
+		masculine: ein => eines + -(e)s
+		feminine: eine => einer
+		neutral: ein => eines + -(e)s
+		e.g.
+			Das Auto eines Mannes (a man's car)
+			Das Kleid einer Frau (a women's dress)
+			Die Augen eines Kindes (a child's eyes)
+	if possessive article:
+		you change the possesive article and add ending in the following rule:
+			masculine and neutral: es + -(e)s
+			feminie and plural: er
+		e.g.
+			Das Auto meines Mannes (my husband's car)
+			Das Kleid meiner Frau (my wife's dress)
+			Die Augen meines Kindes (my child's eyes)
+			Die Großeltern meiner Kinder (my children's grandparents)
+
+	btw another way to represent same meaning is 
+		von + dativ case
+		e.g.
+			Die Freundin von meinem Bruder (my brother's girlfriend)
