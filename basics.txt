@@ -191,4 +191,37 @@ time in German (die Zeit)
 					(the hours above might differ by 12 hours)
 
 
+comparisons in germany:
+	.. so/genauso <adj positiv> wie ...: as .. as 
+		e.g.
+			Heute is es so/genauso warm wie gestern
+				today is as warm as yesterday
+
+		we may also add adverbs before this comparison to add meanings
+			e.g.
+				nicht so warm wie gestern
+					not as warm as yesterday
+				fast so warm wie gestern
+					almost as warm as yesterday 
+				doppelt so warm wie gestern
+					twice as warm as yesterday
+
+	adj komparitiv + als + ...: more .. than ...
+		e.g.
+			Max ist fitter als Johannes
+				Max is fitter than Johannes
+	
+	adj superlativ are basically free to be used in the sentence as an adv 
+		e.g.
+			Rudi läuft am schnellsten.
+				Rudi runs the fastest
+
+	also the -ste form for superlativ:
+		e.g.
+			Du bist der Besten.
+				you are the best
+			Zugspitze ist der höchste Berg.
+				Zugspitze si the highest mountain
+			
+
 					

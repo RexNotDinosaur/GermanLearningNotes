@@ -753,7 +753,63 @@ adjectives:
 				Die Mutter kleinen Kindes
 				Die Mutter frencher Kinder
 			
+adjective comparisons:
+	adj usually has three forms:
+		Positiv: the normal one
+		Komparativ: comparative
+		Superlativ: superlative
+
+	Komparativ:
+		-er
+	Superlativ:
+		am + <adj> + -(e)sten
+		include e when the adj ends in d, t, s, ss, ßsch, z, tz, x
+
+		e.g.
+			Eine Katze ist schnell.
+			Ein Hase ist schneller.	
+			Ein Leopard ist am schnellsten.
+				(a cat is fast, hare faster, leopard fastest)
+
+	however, if the adj is single-vowel, we may change a, u, o to the double-dotted form
+		e.g.
+			arm, ärmer, am ärmsten
+			jung, jünger, am jüngsten
+			groß, größer, am größten (here the -ten is exception)
+
+	also if the adj ends with -el and -er, when you form the Komparativ
+		form you delete the ending's e first
+		e.g.
+			dunkel, dunkler, am dunkelsten
+			teuer, teurer, am teuersten
+			sauer, saurer, am sauersten
 		
+	there are also exceptions:
+		gut, besserm am besten
+		hoch (high), höher, am höchsten		
+		nah (close), näher, am nächsten
+		viel, mehr, am meisten
+		gern, lieber, am liebsten
+
+
+	superlativ can also be changed into a decorative adj by removing -n and am
+		e.g.
+			Rudi ist der schnellste Läufer.
+				Rudi is the fastest runner
+
+		the same form can also be used as noun
+			e.g.
+				Rudi ist der Schnellste.
+					Rudi is the fastest
+
+	another note is that if decorating a noun, komparativ and superlativ still takes endings
+		e.g.
+			Sie hat einen einfacheren Satz formuliert.
+				she had made a simpler sentence (akkusativ)
+			
+			Wir fahren mit dem schnellsten Zug
+				we travel with the fastest train (dativ)
+	
 
 
 Genitiv case:
