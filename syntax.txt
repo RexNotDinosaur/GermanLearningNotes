@@ -168,4 +168,13 @@ nebensatz (subordinate clause)
 				e.g.
 					Falls ich morgen komme, gehen wir einkaufen.
 						In the case I come tmr, we go shopping
-	
+
+		concessive clauses (obwohl):
+			express unexpected consequences of an action
+			obwohl:
+				even though
+				e.g.
+					Ich gehe arbeiten, obwohl ich Rückenschmerzen habe.
+						I go to work even though I have a backache
+			
+						

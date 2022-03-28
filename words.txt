@@ -222,4 +222,16 @@ adverbs:
 			e.g.
 				Sie arbeitet viel zu viel
 					she worked too much
+
+
+	deshalb:
+		therefore
+		e.g.
+			Ich möchte nach Deutschland. Deshalb lerne ich Deutsch.
+	
+	trotzdem:
+		nonetheless, despite that
+		e.g.
+			Er hat kein Geld. Trotzdem kauft er ein neues Handy.	
+			
 				
