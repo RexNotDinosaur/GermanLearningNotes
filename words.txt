@@ -28,6 +28,40 @@ verbs:
 				Das Wetter ist schön
 				Maria ist Französin
 
+	werden:
+		ich werde, du wirst, Sie werden, er/sie/es wird
+		wir werden, ihr werdet, Sie werden, sie werden
+
+		to become
+			e.g.
+				Meine Tochtor will Ärztin werden
+					my daughter wants to become a doctor
+
+		used in future tense, see morphology
+		
+		the future tense expression can be also used to express that speaker is sure
+			e.g.
+				Sie wird bestimmt krank sein.
+					she is definitely ill
+					(not that she will be ill, but that the speaker
+					is sure that is what happens)
+		
+		the future tense expression can also be used to express assumption
+			but i think if you just normally translate as in future tense
+				it also makes sense as all statements about future
+				are assumptions anyways...
+			e.g.
+				Er wird wahrscheinlich einen Antrag machen
+					he will probably make a proposal
+
+		the future tense, similar to imperative, can be used to give commands:
+			it is also a natural extension of its meaning of future tense
+			but anyways...
+			e.g.
+				Du wirst sofort ins Bett gehen!
+					you will go to bed immediately!
+
+		passive tense, see morphology
 
 modal verbs:
 	müssen:

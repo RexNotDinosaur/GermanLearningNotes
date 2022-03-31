@@ -515,7 +515,21 @@ verbs
 				e.g.
 					erklären -> hat erklärt (note that klären -> geklärt)
 					verstehen -> hat verstanden (stehen -> gestanden)
-				
+		
+	future tense:
+		the verb gets changed to a help verb (werden) + infinitive form
+		the infinitive verb is pushed to the end of the sentence
+		e.g.
+			Morgen werde ich nach Hause fahren
+				tomorrow I will drive to the house
+
+
+	passive tense:
+		werden + verb's past particle
+		past particle pushed to the end
+		e.g.
+			Mein Auto wird repariert
+				my car is repaired						
 				
 	
 separable verbs:

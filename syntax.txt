@@ -177,4 +177,16 @@ nebensatz (subordinate clause)
 					Ich gehe arbeiten, obwohl ich Rückenschmerzen habe.
 						I go to work even though I have a backache
 			
-						
+		indirect questions (indirekte Fragesätze)
+			subordinate clause to put questions inside the main sentence
+			often conjuncated with ob (ja-nein fragen, whether) or 
+			corresponding w-question words
+			e.g.
+				Ich weiß nicht, ob sie mich liebt
+					I do not know whether she loves me
+				Er fragt, wann wir in Urlaub fahren.
+					He asks when we go on vacation
+				Können Sie mir sagen, welche Sprachen Sie sprechen?
+					can you time which languages do you speak?
+				Weißt du, wann der Unterricht zu Ende kommt? 
+					do you konw when the lesson ends?
