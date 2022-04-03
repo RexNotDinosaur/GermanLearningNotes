@@ -190,3 +190,40 @@ nebensatz (subordinate clause)
 					can you time which languages do you speak?
 				Weißt du, wann der Unterricht zu Ende kommt? 
 					do you konw when the lesson ends?
+		temporal subordinate (Temporale Nebensätze):
+			während: while
+			bevor: before / until
+			e.g.
+				Während wir essen, spielt der Kellner Music.
+					while we eat the waiter plays music
+				Du darfst keinen Urlaub nehmen, bevor deine Probezeit nicht abgelaufen ist
+					you cannot take vacations until your probabation is expired
+					(btw the meaning does not make sense because there is a nicht
+					after bevor, but look at it here 
+					https://www.degruyter.com/document/doi/10.1524/9783050062365.214/html?lang=en,
+					it is generally considered that the nicht is just dropped...
+					it seems to happen only for bevor in german...)
+				Mach etwas, bevor es zu spät ist.
+					do something before it is too late.
+
+		relative sentences (Relativsätze):
+			provide additional information for a person or thing
+			they conjunct with a relative pronoun
+			e.g.
+				Das ist meine Schwester, die sehr intelligent ist.
+					This is my sister who is very intelligent
+	
+			the relative pronouns change in all cases
+				Nominativ
+					masculine der, feminine die, neutral das, plural die
+					(basically same as definite pronoun for Nominativ)
+					e.g.
+						Er Schmidt, der unser Mathelehrer ist, ist leider krank.
+							Mr. Schmidt, who is our Math teacher, is unfortunately ill
+						Maria hat eine Tasche, die teuer ist.
+							Maria has a bag that is expensive
+						Ich lese ein Buch, das sehr bekannt ist.
+							I read a book that is very famous
+						Hier sind viele Kinder, die auf der Straße spielen
+							here are a lot of kids, who play on the street
+				more to come...
