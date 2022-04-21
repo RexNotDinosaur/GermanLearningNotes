@@ -213,10 +213,10 @@ nebensatz (subordinate clause)
 				Das ist meine Schwester, die sehr intelligent ist.
 					This is my sister who is very intelligent
 	
-			the relative pronouns change in all cases
+			the relative pronouns change according to its case in the subordinate clause
 				Nominativ
 					masculine der, feminine die, neutral das, plural die
-					(basically same as definite pronoun for Nominativ)
+					(basically same as definite article for Nominativ)
 					e.g.
 						Er Schmidt, der unser Mathelehrer ist, ist leider krank.
 							Mr. Schmidt, who is our Math teacher, is unfortunately ill
@@ -226,4 +226,68 @@ nebensatz (subordinate clause)
 							I read a book that is very famous
 						Hier sind viele Kinder, die auf der Straße spielen
 							here are a lot of kids, who play on the street
-				more to come...
+				Akkusativ:
+					masculine den, femine die, neutral das, plural die
+					(basically same as definite article for Akkusativ)
+					e.g.
+						Der Junge, den ich nicht kenne, sitzt neben mir.
+							The boy who I do not know know is sitting next to me
+						Wo ist die Hose, die ich gestern gekauft habe?
+							Where are the pants that I bought yesterday
+						Das Kind, das ich nett finde, heißt Tobias
+							The kid that I find nice is called Tobias
+						Wie findest du die Fotos, die wir letztes Jahr gemacht haben?
+							What do you think of the photos we took last year?
+					note it also applies to akkusativ prepositions, but you have to move the 
+						prepositions to the front as in English (even though sometimes
+						in English we do not really follow that grammar...)
+					e.g.
+						Ich finde den Mann komisch, für den du arbeitest.
+							I find the man, for whom you work, weird.
+							(für den moved to the front)
+						Das ist Maria, ohne die ich nicht leben kann.
+							This is Maria, without whom I cannot live (lol...)
+						...
+				Dativ:	
+					masculine dem, feminine der, neutral dem, pluarl denen
+					(except plural alls ame as definite article for dativ
+					for plural definite article is den but we add -en to it
+					just as how we usually add -n to the nouns)
+					e.g.
+						Wo ist der Mann, dem du Geld gegeben hast?
+							where is the man you gave the money?
+						Unsere nachbarin, der ich Tee koche, ist krank.
+							Our neighbor, for whom I will make team, is ill
+						Das Kind, dem ich eine Schokolade bringe, ist süß.
+							The kid that I bring a chocolate for is sweet.
+						Die Kinder, denen ich Süßigkeiten schenke, sind nett.
+							The children that I am giving the sweets to are nice
+					again for dativ prepositions similar rule as in akkusativ prepositions
+					e.g
+						Das Haus, in dem ich wohne, ist groß
+							The house in which I live is big
+						Unsere Freunde, mit denen wir Bier trinken, besuchen uns.
+							Our friends, with whom we drink beer, are visiting us
+						...
+				Genitiv:
+					masculine dessen, feminine deren, neutral dessen, plural deren
+					(remember for genitiv noramlly for definite article is 
+					masculine des, feimine der, neutral des, plural der, and here we
+					just add -en to it)
+					a small reminder is that the gender to use depends on the noun in main clause 
+						(the possessing noun), instead of the noun afterwards (the possessed noun)
+					e.g.
+						Sie suchen einen Mann, dessen Auto hier steht.
+							They are looking for a man whose car is here
+						Er mag eine Schauspeilerin, deren Augen er schön findet.
+							He likes an actress whose eyes he finds beautiful
+						Kennst du das Mädchen, dessen Mutter gestern gestorben ist?
+							Do you know this little girl whose mother has died yesterday?
+						Wo sind die Kinder, deren Schuhe hier liegen?
+							Where are the kids whose shoes lie here?
+					Again if you have prepositions, move the prepositions to the front as other cases
+					e.g.
+						Wo ist dein Bruder, mit dessen Frau ich heute sprechen mörchte.
+							Where is your brother, with whose wife I want to speak today
+						Hier sind zwei Schüler, mit deren Eltern ich reden will.
+							Here are two students with whose parents I want to talk to.
