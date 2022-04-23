@@ -291,3 +291,71 @@ nebensatz (subordinate clause)
 							Where is your brother, with whose wife I want to speak today
 						Hier sind zwei Schüler, mit deren Eltern ich reden will.
 							Here are two students with whose parents I want to talk to.
+			
+			Relativsätze can also be used with wer and was:
+				was:
+					can be used with demonstrative and indefinite pronouns
+						(
+							demonstrative pronoun: pointing things out
+								e.g. das (that), dasselbe (the same), ...
+							indefinite pronoun: pronouns that does not really specifically refer to anything
+								e.g. 
+									alles (everything)
+									nichts (nothing)
+									manches (many)	
+									etwas (something)
+									...
+						)
+						
+						e.g.
+							Nimm dir das, was dir gefällt.
+								Take waht you like
+							Das ist etwas, was keiner versteht
+								That is something that nobody understands
+							Hier gibt es nichts, was mir gefällt
+								There is nothing here that I likes
+						when used with das, "das" can be ommitted (like noun clauses in English):
+						e.g.		
+							(Das,) Was du mir erzählst, glaube ich nicht.
+								I do not believe what you tell me
+							
+					it can also be used with superlativ forms of adjectives that got turned into nouns
+						e.g.
+							Das ist das Schönste, was ich gesehen habe.
+								That is the nicest thing that I have seen.
+							Das Teuerste, was ich gekauft habe, war mein Handy
+								The most expensive thing that I have bought was my phone
+					it is also used when you refer to the entire sentence:
+						e.g.
+							Manche kommen spät zur Arbeit, was der Chef sehr ärgert
+								Some come late at work, which annoys the boss very much
+							Er hat noch einmal gelogen, was ich nicht schön finde
+								He has again lied, which I do not find good
+					note that was stays the same no matter what case it is in suborniate clause, but
+						in Dativ you might see "dem" being used
+						e.g.
+							Das ist das Schlimste, was ich gesehen habe
+								That is the worst I have ever seen (Akkusativ)
+							Er gibt hier vieles, dem / was ich zustimmen kann.
+								There is much here that I can agree with (Dativ)
+				wer:
+					it can be used with non-specific persons
+						it will omit the noun before it just as a noun clause in English
+						e.g.
+							Derjenige, der eine Schokolade will, sollte melden
+								==> Wer eine Schokolade will, sollte melden
+								The one who wants a chocolate should report
+							Alle, die mitfahren wollen, müssen 5 Euro zahlen.
+								==> Wer mitfahren will, muss 5 Euro zahlen.
+								The one who wants to ride must pay 5 Euros
+					wer changes its form based on the case of it in subordinate clause:
+						Nominativ: wer
+						Akkusativ: wen
+						Dativ: wem
+						e.g.
+							Wen ich zuerst sehe, frage ich.
+								The person I see first, I will ask (Akkusativ)
+							Wem das Essen nicht schmeckt, muss nicht zahlen.
+								People who do not like the food should not pay (Dativ)
+			
+							
