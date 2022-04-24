@@ -294,6 +294,7 @@ nebensatz (subordinate clause)
 			
 			Relativsätze can also be used with wer and was:
 				was:
+					it is used only for non-living things
 					can be used with demonstrative and indefinite pronouns
 						(
 							demonstrative pronoun: pointing things out
@@ -339,7 +340,7 @@ nebensatz (subordinate clause)
 							Er gibt hier vieles, dem / was ich zustimmen kann.
 								There is much here that I can agree with (Dativ)
 				wer:
-					it can be used with non-specific persons
+					it can be used with non-specific personal pronouns
 						it will omit the noun before it just as a noun clause in English
 						e.g.
 							Derjenige, der eine Schokolade will, sollte melden

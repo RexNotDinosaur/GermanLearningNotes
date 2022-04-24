@@ -266,6 +266,35 @@ adverbs:
 	trotzdem:
 		nonetheless, despite that
 		e.g.
-			Er hat kein Geld. Trotzdem kauft er ein neues Handy.	
+			Er hat kein Geld. Trotzdem kauft er ein neues Handy.
+
+
+indefinite pronouns (Indefinitpronomen):
+	does not refer to any specific things / people
+
+	for things:
+		alles: everything
+		viel: much
+		etwas: something
+		wenig: little
+		nichts: nothing
+		welch-: some
+			it is welch- because based on what it replaces (case and gender), 
+				it takes different endings
+	for people:
+		man: one
+			Nominativ: man, Akkusativ: einen, Dativ: einem
+		jemand: somebody
+			Nominativ: jemand, Akkusativ: jemand(en), Dativ: jemand(em)
+		niemand: nobody
+			Nominativ: niemand, Akkusativ: niemand(en), Dativ: niemand(em)
+	
+	can be used on both things and people:	
+		alle: all
+		viele: many
+		manche: some
+		einige: some
+		jede: each
+		keine: no one
 			
 				
