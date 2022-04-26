@@ -515,6 +515,60 @@ verbs
 				e.g.
 					erklären -> hat erklärt (note that klären -> geklärt)
 					verstehen -> hat verstanden (stehen -> gestanden)
+
+	past tense:
+		for past tense we may use the Präteritum form
+		it is usually on written documents though
+
+		e.g.
+			Im Jahr 1980 arbeitete mein Vater als Beamte	
+				In 1980, my father worked as a civil servant
+					(arbeitete is Präteritum form)	
+		Präteritum form
+			for modal verbs, see the notes about words
+
+			regular verb (regelmäßige verben):
+				verb stem + -t + conjugation ending
+				ich -te, du -test, Sie -ten, er/sie/es -te
+				wir -ten, ihr -tet, Sie -ten, sie  -ten
+				(we usually denote the verb with its -te form
+				e.g. kauften => kaufte)
+				
+				note that most rules for conjugation ending
+				is the same, but for er/sie/es we use -te ending
+				instead of -tet ending as we may expect from the
+				present tense rule
+				
+				e.g.
+					ich kaufte, du kauftest, Sie kauften, er/sie/es kaufte
+					wir kauften, ihr kauftet, Sie kauften, sie kauften
+
+				special case:
+					if the stem ends in d, t, tt, m, n, then we
+					add extra e before the first -t
+					e.g.
+						arbeiten => arbeitete
+						zeichnen => zeichnete
+
+			irregular verbs (unregelmäßige verben):
+				some verbs we only change the vowel and that will be it,
+					for those the conjugation rules is still ich and er/sie/es
+					sharing same form no matter what ending we end up with
+					e.g.
+						riechen ==> roch
+						ich roch, du rochst, Sie rochen, er/sie/es roch,
+						wir rochen, ihr rocht, Sie rochen, sie rochen
+				for some verbs we change the vowel and add the -t ending as in
+					regular verb
+					e.g.
+						bringen ==> brachte
+						ich brachte, du brachtest, Sie brachten, er/sie/es brachte
+						wir brachten, ihr brachtet, Sie brachten, sie brachten
+				there are also special cases that change without particular pattern
+					e.g.	
+						gehen ==> ging
+						ich ging, du gingst, Sie gingen, er/sie/es ging
+						wir gingen, ihr gingt, Sie gingen, sie gingen
 		
 	future tense:
 		the verb gets changed to a help verb (werden) + infinitive form

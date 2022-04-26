@@ -159,6 +159,43 @@ modal verbs:
 
 		ich soll, du sollst, Sie sollen, er/sie/es soll,	
 		wir sollen, ihr sollt, Sie sollen, sie sollen
+
+	 Präteritum form for modal verbs:
+		basically you take the stem verb, remove the Umlaut (the double dot), and 
+			add -t, then conjugate accordingly 
+		können
+			konnte, conjugating as follows
+			ich konnte, du konntest, Sie konnten, er/sie/es konnte
+			wir konnten, ihr konntet, Sie konnten, sie konnten
+
+			basically after you know the stem, mostly same conjugation rule
+			 	with normal present tense conjugations, except that similar
+				to normal modal verb conjugation, er/sie/es uses the -e ending
+
+		müssen
+			musste
+			ich musste, du musstest, Sie mussten, er/sie/es musste
+			wir mussten, ihr musstet, Sie mussten, sie mussten
+
+		dürfen
+			durfte	
+			ich durfte, du durftest, Sie durften, er/sie/es durfte
+			wir durften, ihr durftet, Sie durften, sie durften
+
+		wollen	
+			wollte
+			ich wollte, du wolltest, Sie wollten, er/sie/es wollte
+			wir wollten, ihr wolltet; Sie wollten, sie wollten
+		
+		sollten
+			sollte
+			ich sollte, du solltest, Sie sollten, er/sie/es sollte,
+			wir sollten, ihr solltet, Sie sollten, sie sollten
+
+		mögen
+			mochte (a bit special)
+			ich mochte, du mochtest, Sie mochten, er/sie/es mochte,
+			wir mochten, ihr mochtet, Sie mochten, sie mochten
 	
 		
 conjunction words:
