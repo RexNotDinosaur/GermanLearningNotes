@@ -359,4 +359,20 @@ nebensatz (subordinate clause)
 							Wem das Essen nicht schmeckt, muss nicht zahlen.
 								People who do not like the food should not pay (Dativ)
 			
-							
+		subordinate clause with "als":
+`			In temporal subordinate clause to indicate when something happened in the past
+			e.g.
+				Lena war schon verheiratet, als sie 20 war.
+					Lena was already married when she was 20
+
+			In modal subordinate clause to be used with Komparativ to indicate relativeness to 
+				some info that is provided by the subordinate clause 	
+			e.g.
+				Dieser Laden ist billliger, als du es gesagt hast.
+					This shop is cheaper than you said.	
+					(note that here we complete the sentence with "es", so it is
+					more like "than you said it", just in English we usually do not
+					include "it", the subordiate clause is recovered as
+					"du hast gesagt es")	
+				Der Mathematiker hat die Aufgabe auf andere Weise gelöst, als wir es uns vorgestellt haben.
+					The mathematician has solved the problem in a different way than we imagined	
