@@ -375,4 +375,62 @@ nebensatz (subordinate clause)
 					include "it", the subordiate clause is recovered as
 					"du hast gesagt es")	
 				Der Mathematiker hat die Aufgabe auf andere Weise gelöst, als wir es uns vorgestellt haben.
-					The mathematician has solved the problem in a different way than we imagined	
+					The mathematician has solved the problem in a different way than we imagined
+	
+		infinitive (Infinitivsätze):
+			Subordinate sentences that does not have a subject, it is a bit like "to do..." in English
+			
+			with zu:
+				main sententence, rest of setence except verb + zu + verb
+				verb is not conjugated
+				e.g.
+					Ich hat angefangen, Deutsch zu lernen.
+						I have started to learn German
+					
+				if it is modal verb or perfect, the main verb is put in the 
+					"rest of setence" part where the verb is the modal	
+					verb / habe / sein
+				e.g.
+					Ich kann mich nicht daran erinneren, diesen Film gesehen to haben.
+						I cannot remember that I have watched the film
+
+				If separable verb, instead the zu + verb part becomes prefix+zu+stem (no space)
+				e.g.
+					Ich haben vergessen, das Fenster aufzumachen
+						I forgot to open the window
+				 		(auf + zu + machen)
+				
+				like English this usage is usually used with certain verbs
+					like aufhören (stop), galuben (believe), beginnen (begin),
+					voerhaben (plan), ... not the entirely same list as English though...
+				
+				it can also be used after <adj> + sein phrases
+				e.g.
+					Es ist gut, gesund zu essen
+						it is good to eat healthy
+
+				it can also be used after some nouns, including Lust (desire),
+					Angst (fear), Absicht (intention), Zeit (time), ...
+					looks similar to English
+				e.g.
+					Hast du Lust, mit mir essen zu gehen?
+						Do you feel like to go eating with me?
+						(in German we instead use habe Lust to indicate "feel like")
+
+			there are several cases that is not followed by infinitiv
+				words of senses, or thoughts:
+					fühlen, hören, sehen, riechen, erkennen (realize), 
+					bemerken (observe), erhahren (find out), merken (notice), ...
+				verbs that show a movement
+					gehen, kommen, laufen, fahren, ...
+				verbs that show speech
+					antworten (answer), berichten (report), erzählen, sagen
+				also other words:
+					lassen, bleiben
+
+				note that for above verbs some of them can be used directly following a verb phrase unconjungated
+					(gehen, kommen, hören, sehen, ...)
+				e.g.
+					Hörst du auch die Vögel singen?
+						Do you also hear the birds sing?
+				
