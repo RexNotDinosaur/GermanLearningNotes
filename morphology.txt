@@ -87,7 +87,24 @@ several basic concepts to start with
 					I'm cold. (it is cold for me)
 				Mir ist (es) langweilig.
 					It is boring for me
+	two way prepositions:
+		as mentioned in the previous note, we may use dativ or akkusativ after
+			prepositions, but there are also prepositions that can take both
+			akkusativ or dativ, but the meanings are different. generally
+			the akkusativ will be something used when asked "Wohin" (where to)
+			while dativ when asked "Wo" (where).
+			(does not find a good way to make sense of this though...)
+		such articles include
+			an, auf, hinter, in, neben, über, unter, vor, zwischen
 
+		e.g.	
+			Sie hängt das Bild an die Wand.
+			Das Bild hängt an der Wand.
+				She hang to picture on(to) the wall
+				The picture hangs on the wall
+				(first one we use akkusativ (feminine) for Wand
+				because she hangs "onto", while second one we use
+				dativ)
 
 musculine / feminine / neutral:
 	several rules for guessing...:
@@ -570,6 +587,12 @@ verbs
 						ich ging, du gingst, Sie gingen, er/sie/es ging
 						wir gingen, ihr gingt, Sie gingen, sie gingen
 		
+	past perfect:
+		mostly same as present perfect except using Präteritum for helping verbs (hatte / war)
+		e.g.
+			Bevor ich ins Bett ging, hatte ich ein Buch gelesen.
+				Before I went to bed, I had read a book
+	
 	future tense:
 		the verb gets changed to a help verb (werden) + infinitive form
 		the infinitive verb is pushed to the end of the sentence
