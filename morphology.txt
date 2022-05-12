@@ -602,12 +602,52 @@ verbs
 
 
 	passive tense:
-		werden + verb's past particle
-		past particle pushed to the end
-		e.g.
-			Mein Auto wird repariert
-				my car is repaired						
-				
+		there are two passive cases:
+			Vorgangspassiv:
+				werden + verb's past perfect
+				past perfect pushed to the end
+				e.g.
+					Sein Onkel wird morgen abgeholt.
+						His uncle will be picked up tomorrow
+				note we may use "von" to indicate whatever or whoever carried out the action
+					but we would need to use "durch" if the original subject in the 
+					active tense is not really an actor but more like a medium / tool
+				e.g.
+					Der Vertrag wird von dem Mann untershcrieben
+						The contract is being signed by the man					
+					Die Wunde wird durch dieses Medikament geheilt
+						The wound is cured by this drug
+						(The drug does not "take action" to 
+						cure but instead someone cures people
+						through the medicine...)
+				another note in present perfect tense "werden" is used with "sein" as help verb
+					and past perfect with "war"
+				e.g.
+					Der Computer ist neu gestartet worden.
+						The computer has been restarted
+				note that in German there are dative objects, and when using
+					passive with dativ, if we still have the akkusativ noun
+					to be the subject, the dativ noun just stays where it is, but on the
+					other hand if it is a dative verb, the default subject become "es"
+				e.g.
+					Das Essen wird mir gebracht.
+						The food is brought to me
+						(Essen is akkusativ so mir just stays in the sentence normally)
+					Es wird der Chefin geholfen.
+						The chef is helped
+						(helfen is dativ verb and no akkusativ, thus "Es" as subject)
+				interestingly in German if it is a verb + preposition without direct object, sometimes
+					the preposition may be used as the subject in passiv
+				e.g.
+					Sie wartet seit 3 Stunden => Seit 3 Stunden wird gewartet
+						She waited for 3 hours => 3 hours is "waited"
+				if there is no direct object we may still use passive, and the subject becomes "it".
+					This is actually the rule applied when using a dativ verb
+				e.g.
+					Es wird seit 3 Stunden gewartet.
+						3 hours is waited (another way to say the previous example)
+			Zustandspassiv:
+				to come...
 	
 separable verbs:
 	prefix + normal verb, the prefix changes the meaning of the verb
@@ -843,6 +883,26 @@ adjectives:
 				Das Huas alter Frau
 				Die Mutter kleinen Kindes
 				Die Mutter frencher Kinder
+	adjectives as nouns:
+		the adjectives may be used as noun themselves, 
+			if used with definite/indefinte article, the articles also change case accordingly
+			note that this expression is a short form of 
+			article + adj + noun with the noun implied, therefore
+			the adjective has to take whatever ending it requires before the
+			noun despite the non-presence of the noun
+			(-e, -en or -er, acoording to the rules outlined above)
+			also intuitively the gender of the article follows the implied noun
+			e.g.
+				In meiner Klasse war eine Blonde
+					In my class there was a blonde
+				Am Ende habe ich nur einen Dummen gefunden
+					In the end I just found a stupid
+		this usage can be used after nichts / etwas to express nothing/something ...
+		e.g.
+			Das ist nichts Besonderes.
+				This is nothing special
+			Hast du etwas Gutes gehört?
+				Have you heard something good? (well, in English it is more natural to say "anything good" here lol...)
 			
 adjective comparisons:
 	adj usually has three forms:
@@ -901,6 +961,8 @@ adjective comparisons:
 			Wir fahren mit dem schnellsten Zug
 				we travel with the fastest train (dativ)
 	
+
+
 
 
 Genitiv case:
