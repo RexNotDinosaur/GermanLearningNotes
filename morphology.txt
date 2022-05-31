@@ -733,6 +733,92 @@ non-separable verbs:
 
 
 
+reflexive verbs:
+	must be used with reflexive prononoun (sich, mich, dich, mir, ...)
+		that is, subject + reflexive verb + reflexive pronoun
+
+	reflexive pronouns in akkusativ
+		ich->mich, du->dich, Sie->sich, er/sie/es->sich
+		wir->uns, ihr->euch, Sie->sich, sie->sich
+	reflexive pronouns in dativ
+		ich->mir, du->dir, Sie->sich, er/sie/es->sich
+		wir->uns, ihr->euch, Sie->sich, sie->sich
+
+	
+	the reflexive pronoun may be in akkusativ
+	e.g.
+		Worüber ärgerst du dich?
+			(dich is akkusativ)
+			what are you annoyed about?
+
+	the reflexive pronoun may be in dativ, usually happens when there is already 
+		a direct object, also sich usually comes before the object
+	e.g.
+		Ich putze mir die Zähne.
+			I brush my teeth (for myself, which in English we leave away).
+
+	
+	interestingly, there are several types of reflexive verbs:
+		"genuine" reflexive verbs:
+			the reflexive pronouns cannot be dropped, and cannot be
+				replaced by a regular noun/pronoun
+				naturally you cannot really ask about the reflexive
+					pronouns
+			e.g.
+				Ich beeile mich.
+					I hurry up
+					you can neither say "Ich beeile" (dropping reflexive pronoun)
+						nor "Ich beeile meine Mutter" (replace reflexive pronoun)
+					you cannot ask about "mich" here because apparently
+						it does not make sense
+
+				Was hast du dir eingebildet?
+					here the reflexive verb has an object (was),
+					but the "dir" cannot be dropped, replaced
+					or asked about similarly to the previous example
+					(but apparently you can ask about the object as in
+					this example)
+		
+		reflexive verb variants:
+			such verbs may be used as reflexive verb, but may also be not reflexive
+			two usages would have different meanings (either subtly or drastically) under those usages
+			in the reflexive usage, one cannot ask about the reflexive pronoun
+			(you can consider them as Homonyms)
+			e.g.
+				
+				Sie ärgert ihn.
+					She annoys him. (non-reflexive)
+				Ich ärgere mich.
+					I am angry (here reflexive)
+					note that here it does not mean "I annoy myself".
+
+				
+				Sie verlässt ihren Mann
+					She leaves her husband
+				Sie verlässt sich auf ihren Mann
+					She relies on her husband (reflexive, very different meaning)
+
+		regular verbs may be used as reflexive in certain cases naturally
+			different from previous case, the meanings do not change in
+			reflexive usage
+			naturally, because it is basically an action that can be done
+			both on others and on self, and in reflexive usage it is when 
+			the action is performed on self, and thus one can ask about the
+			reflexive pronoun
+			e.g.
+				Sie wäscht den Hund.
+					She washes the dog.
+				Sie wäscht sich.	
+					She washes herself.
+					(reflexive usage, but same as original meaning
+					as long as you do not say "Sie wäscht sie", it is
+					alright...
+					you can ask about the "sich" here)
+					
+				
+						
+
+			
 adjectives:
 	adj's change endings in different cases when they are before the nouns
 		(but not really if they are not decorating any noun...)
