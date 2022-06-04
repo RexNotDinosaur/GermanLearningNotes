@@ -815,10 +815,75 @@ reflexive verbs:
 					alright...
 					you can ask about the "sich" here)
 					
-				
-						
 
-			
+reciprocal verbs (reziproke Verben):
+	noun / noun phrase that represent multiple entities + reciprocal verb + reflexive pronoun (basically sich, and also can be einander)
+		that represents an action / relationship that is applied
+		among each other
+	e.g.
+		Petra und Michael lieben sich / einander. 
+			Petra and Michael love each other.	
+						
+	similar to reflexive verbs, reciprocal verbs can also be classified in multiple categories
+		"genunine" reciprocal verb:
+			basically identical to how we defined genuine reflexive verb
+				where reflexive pronouns can never be dropped or replaced
+			e.g.
+				Sie freunden sich an.
+					They became friends with each other
+					(anfreunden is the reciprocal verb here)
+		reciprocal verb variants:
+			quite intuitive, basically just having reciprocal usage and 
+				non-reciprocal usage, and under two usages the meanings
+				are not 100% the same
+			e.g.
+				Die Kinder vertragen sich.
+					The kids get along.
+				Sie kann keine Kritik vertragen.
+					She can take no criticism
+				(first one is reciprocal but not in second sentence
+				and they have different meanings)
+		regular verbs used as reciprocal naturally:
+			Wir begrüßen uns.
+				We welcome each other.
+			Wir begrüßen die Gäste.
+				We welcome the guests
+				(in both cases begrüßen mean the same, to welcome)
+	
+
+
+noun-verb combination (Nomen-Verb-Verbindung)
+	noun (akkusativ) + verb, but it might form a new meaning from what the original
+		verb means
+	can generally be thought as an independent new verb
+	such combinations sometimes have a corresponding simpler verb that has the same
+		meaning that is often derived from noun, which represents the main
+		meaning of the combination
+		e.g.
+			Sie hat die Entscheidung getroffen, in Deutschland zu studieren.
+			Sie entschied, in Deutschland zu studieren.
+				She decided to study in Germany.
+			Wir haben von unseren Freunden Abschied genommen.
+			Wir haben uns von unseren Freunden verabschiedet.
+				We have said goodbye to our friends.
+				 	(here the verb verabschieden becomes
+					becomes reflexive, and also adds prefix
+					to Abshied, but mostly derived from the
+					noun anyways...)
+			Wenn man Geld investiert, muss man auch Risiken in Kauf nehmen.
+				When you invest money you also have to be ready for the risks
+					(here in Kauf nehmen may be replaced
+					by akzeptieren but it is apparently
+					not derived from the noun Kauf)
+			Nehmen Sie bitte zu diesem Thema Stellung.
+				Please comment on this topic.
+					(here there is no simple verb that
+					replaces Stellung nehmen which means
+					to comment on)
+
+
+
+		
 adjectives:
 	adj's change endings in different cases when they are before the nouns
 		(but not really if they are not decorating any noun...)
