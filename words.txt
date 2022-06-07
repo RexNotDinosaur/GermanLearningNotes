@@ -63,6 +63,53 @@ verbs:
 
 		passive tense, see morphology
 
+	lassen:
+		it can be used as main verb	
+			to leave:
+			e.g.
+				Ich lasse dieses Buch zu Hause.
+					I leave the books at home
+	
+			to stop:
+			e.g.
+				Er kann das Rauchen nicht lassen.	
+					He cannot stop smoking
+
+		it can also be used as help verb:
+			it can mean permission:
+			e.g.
+				Sie lässt ihre Tochter ins Kino gehen
+					She lets her daughter go to the movies
+			let something happen, used as reflexive
+			note in this usage the object should be passively done by the verb
+			e.g.
+				Er lässt sich die Haare schneiden.
+					He lets her hair cut (or, in English, more like let his hair get cut)
+			suggestion:
+			e.g.
+				Lass uns etwas kochen.
+					Let's cook something
+			make a request:
+			e.g.
+				Lassen Sie bitte den Koffer stehen.
+					Please leave the suitcase
+
+			indicate possibility, in this usage, used as reflexive verb:
+			note in this usage the subject is the subject for passive and the
+				subject in active tone (actor) may be added using the preposition von
+			in other sense, it is equivalent to kann + passive
+			looked together with the "let" usage, the reflexive usage carries a
+				passive meaning on its own 
+			e.g.
+				Das Fenster lässt sich nicht öffnen.
+					The window does not open (cannot be opened)
+				Das lässt sich gut machen.
+					This can be done well.
+			the fact that we call it a help verb here, is that it seems that
+				it can be used with perfect tense like a regular verb
+			e.g.
+				Wir haben unser Zimmer (vom Zimmermädchen) putzen lassen.
+					We have had our room cleaned (by the maid)
 modal verbs:
 	müssen:
 		(must, have to)
