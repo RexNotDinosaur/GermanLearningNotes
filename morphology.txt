@@ -1162,3 +1162,21 @@ Genitiv case:
 		von + dativ case
 		e.g.
 			Die Freundin von meinem Bruder (my brother's girlfriend)
+
+	there are also genitiv prepositions:
+	Wärend: during, Wegen: because of
+	e.g.
+		Wärend des Unterrichts ist er eingeschlafen.
+			He fell asleep during the class (Wärend + genitiv)
+
+	there are verbs that are followed by genitivs:
+	explanation in later courses though...
+	e.g.
+		Der Mann wird des Diebstahls beshuldigt.
+			the man is accused of theft
+
+	there are also adjectives that are joined by genitivs:
+	but to be explained later as well...
+	e.g.
+		Ich bin mir meiner Fähigkeiten bewusst.
+			I am aware of my skills (bewusst is joined with genitiv)
