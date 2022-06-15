@@ -392,6 +392,7 @@ possesive pronouns:
 
 
 
+
 verbs
 	inifitive form of verb (the one commonly written in dictionaries):
 		stem + ending (either -en or -n)
@@ -1164,7 +1165,7 @@ Genitiv case:
 			Die Freundin von meinem Bruder (my brother's girlfriend)
 
 	there are also genitiv prepositions:
-	Wärend: during, Wegen: because of
+	wärend: during, wegen: because of, trotz: despite of
 	e.g.
 		Wärend des Unterrichts ist er eingeschlafen.
 			He fell asleep during the class (Wärend + genitiv)
