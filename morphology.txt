@@ -1181,3 +1181,36 @@ Genitiv case:
 	e.g.
 		Ich bin mir meiner Fähigkeiten bewusst.
 			I am aware of my skills (bewusst is joined with genitiv)
+
+da-compounds:
+	da + preposition (some with an r in bewteen just for pronounciation purpose)
+	daran (da + an), darauf (da+auf), daraus (da + aus),  dabei, dadurch, dafür, dagegen,
+	dahinter, darin (da+in), damit, danach, daneben, darüber (da + über), darum (da + um),
+	darunter(da + unter), davon, davor, dazu, dazwischen 
+	
+	basically meant preposition + something we already mentioned, or in other words, preposition + pronoun
+		it is not used on people or most animals though..
+
+	e.g.
+		- Er träumt von einer Weltreise.
+		- Ich träume auch davon.
+			- I dream of a world tour.
+			- I also dream of it. (or, "so do I", lol...)
+			(note that if it is träume von + someone (like some idol),
+			then do not use davon, instead use von + pronoun)
+	
+	note do not use it at the start of relative sentence to replace pronoun + definite article, but
+		you can use it as a placeholder for dass and infinitiv
+	e.g.
+		Ich freu mich sehr darauf, 
+			dass wir nächste Woche nach Dubai fliegen 
+			/ nächste Woche nach Dubai zu fliegen
+		I look forward to (us) flying to Dubai next week
+
+	there are prepositions that cannot be used with da: 
+		the genitiv prepositions
+		ohne
+		
+	
+	
+	
