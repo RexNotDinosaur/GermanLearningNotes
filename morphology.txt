@@ -1212,5 +1212,40 @@ da-compounds:
 		ohne
 		
 	
-	
-	
+wo-compounds:
+	like da-compounds, but with wo + preposition
+
+	it can be used in fragen to ask about a dativ / akkusativ preposition
+	(instead of preposition + was)
+	e.g.
+		worüber lacht ihr?
+			what are you laughing at?
+	for this usage you must ask about things. don't use on person, for people just preposition + wen
+	e.g.
+		Über wen habt ihr denn gesprochen?
+			Who were you talking about?
+ 
+	it can also be used in relativ satze to replace preposition + article
+		(but it is not used very frequently)
+	e.g.
+		Das Haus, worin (in dem) ich wohne, ist nicht groß.
+
+	in relativ satze you can also use on neutral adjectives to serve as the conjunction
+	e.g.
+		Es ist das Interessanteste, woran ich mich erinnern kann.	
+			That is the most interesting thing that I can remember
+
+	also in relativ satze it can be used as conjunction for indefinitive pronouns
+	e.g.
+		Nichts, worüber wir geredet haben, war wichtig
+			None that we talked about was important
+		Es gibt vieles, wofür ich dir dankbar bin.
+			There are a lot that I am grateful
+
+	also in relativ satze it can be used when you are trying to modify the entire sentence
+	e.g.
+		Er hat mich eingeladen, worüber ich mich sehr freue.
+			He invited me, which I am very happy about
+
+	(all above relativ satze usages are basically usages for "was" except that we have
+	a pronoun)

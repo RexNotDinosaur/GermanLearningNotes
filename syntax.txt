@@ -348,6 +348,10 @@ nebensatz (subordinate clause)
 								That is the worst I have ever seen (Akkusativ)
 							Er gibt hier vieles, dem / was ich zustimmen kann.
 								There is much here that I can agree with (Dativ)
+					also when you need a preposition in front of the conjunction you use the wo-compound as noted in morphology
+					e.g.
+						Letzte Woche haben wir groß gefeiert, woran ich mich noch erinnere.
+							Last week we had a big party, which I remember (wo + an, referring to the entire sentence)
 				wer:
 					it can be used with non-specific personal pronouns
 						it will omit the noun before it just as a noun clause in English
@@ -385,7 +389,27 @@ nebensatz (subordinate clause)
 					"du hast gesagt es")	
 				Der Mathematiker hat die Aufgabe auf andere Weise gelöst, als wir es uns vorgestellt haben.
 					The mathematician has solved the problem in a different way than we imagined
-	
+
+		instrumental sentences:
+			express the way in which something happens, usually use
+				"indem", "dadurch, dass" to answer the questions
+				(through which)
+			e.g.
+				Man kann das Gerät einschalten, indem man den roten Knopf drückt.
+					One can turn on the device by pressing the red button
+				Man kann das Fenster dadurch öffnen, dass man den Knopf drückt. 
+					One can open the window by pressing the button
+			interestingly, we know that we can put subordinate class before, but moving
+				"dadurch, dass" before involves first moving "Dadurch, dass" entirely
+				to the front instead of having dadurch staying almost like an preposition
+				phrase in the main sentence
+			e.g.
+				Dadurch, dass man vorsichtig fährt, kann man einen Unfall vermeiden.
+					Through driving carefully can you avoid an accident.
+					(come from
+					Man kann einen Unfall dadurch vermeiden, dass man vorsichtig fährt.)
+			
+
 		infinitive (Infinitivsätze):
 			Subordinate sentences that does not have a subject, it is a bit like "to do..." in English
 			
