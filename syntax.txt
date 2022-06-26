@@ -408,34 +408,7 @@ nebensatz (subordinate clause)
 					Through driving carefully can you avoid an accident.
 					(come from
 					Man kann einen Unfall dadurch vermeiden, dass man vorsichtig fährt.)
-		
-		Final clauses:
-			subordinate clause that express purpose
-			um ... (the dativs and akkusativs) zu ... (the verb), damit
-			e.g.
-				Ich trage eine Brille, damit ich besser sehen kann.
-					I wear glasses so that I see better.
-				Ich schreibe alles auf, um es nicht zu vergessen
-					I write down everything so as not to forget
-
-			note we do not use certain modal verbs as they simply are redundant
-				semantically (wollen, mögen, ...) for Final clauses
-
-			note for um...zu... only the main verb goes to the part after 'zu':
-			e.g.
-				Wir fahren in Urlaub, um uns erholen zu können.
-					We went on vacation so that we can relax
-
-		ohne dass / ohne zu
-			without doing something
-				(that the main clause is unexpected because the unpresence of
-				the action in subordinate clause)
-			e.g.
-				Er besuchte uns, ohne dass er uns informierte.
-					He visited us without informing us
-				Er ist gegangen, ohne sich zu verabschieden.
-					He left without saying goodbye
-				
+						
 
 		infinitive (Infinitivsätze):
 			Subordinate sentences that does not have a subject, it is a bit like "to do..." in English
@@ -493,4 +466,38 @@ nebensatz (subordinate clause)
 				e.g.
 					Hörst du auch die Vögel singen?
 						Do you also hear the birds sing?
+
+		Final clauses:
+			subordinate clause that express purpose
+			um ... (the dativs and akkusativs) zu ... (the verb), damit
+			e.g.
+				Ich trage eine Brille, damit ich besser sehen kann.
+					I wear glasses so that I see better.
+				Ich schreibe alles auf, um es nicht zu vergessen
+					I write down everything so as not to forget
+
+			note we do not use certain modal verbs as they simply are redundant
+				semantically (wollen, mögen, ...) for Final clauses
+
+			note for um...zu... only the main verb goes to the part after 'zu':
+			e.g.
+				Wir fahren in Urlaub, um uns erholen zu können.
+					We went on vacation so that we can relax
+
+		ohne dass / ohne zu
+			without doing something
+			e.g.
+				Er besuchte uns, ohne dass er uns informierte.
+					He visited us without informing us
+				Er ist gegangen, ohne sich zu verabschieden.
+					He left without saying goodbye
+		(an)statt dass / (an)statt zu
+			instead of doing soemthing
+			e.g.
+				Anstatt dass sie ihre Hausaufgabe macht, geht sie mit Freunden einkaufen.
+					Instead of doing her homework, she went shopping with her friend
+				Spare dein Geld, anstatt alles auszugeben.
+					Save your money instead of spending them all	
+	
+		
 				

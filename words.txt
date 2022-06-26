@@ -110,6 +110,32 @@ verbs:
 			e.g.
 				Wir haben unser Zimmer (vom Zimmermädchen) putzen lassen.
 					We have had our room cleaned (by the maid)
+
+			it is also frequently used with "nur / erst / bloß" if you want to use
+				the zu ... brauchen expression
+			e.g.
+				Du brauchst es nur zu sagen, wenn du Hilfe benötigst.
+					You just have to say it if you need help
+				Du brachst bloß das Auto abzuholen, es ist schon repariert.
+					You just have to pick the car up, it is well repaired.
+				Du brauchst erst deine Hausaufgabe zu machen, dann darfst du spielen.
+					You first need to do your homework then you can play
+	brauchen:
+		normally means "to need"
+		e.g.
+			Diese Pflanze bracht viel Licht und Wasser.
+				The plant needs a lot of light and water.
+
+		it can also have the same meaning as müssen when used in NEGATION (means "do not have to", 
+			along with the negation), and we do zu ... brauchen in this case
+			(with negation, like nicht, keine, ...)
+		in this case its perfect form is still brauchen instead of gebraucht
+
+		e.g.
+			Sie brauchen keine E-Mail zu schreiben.
+				You do not have to write an email.
+			Wir haben nicht nach Hause zu gehen brauchen.
+				we did not have to go home
 modal verbs:
 	müssen:
 		(must, have to)
