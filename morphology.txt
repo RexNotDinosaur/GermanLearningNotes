@@ -534,6 +534,52 @@ verbs
 					erklären -> hat erklärt (note that klären -> geklärt)
 					verstehen -> hat verstanden (stehen -> gestanden)
 
+	Now that we have seen Partizip II in perfect tense, here is
+	Partizip in general:
+		They are used if you want to use word as adj / adv
+		Partizip I:
+			to form Partizip I:
+				Infinitiv + 'd'
+			e.g.
+				warten -> wartend
+				singen -> singend
+				...
+
+			used as adj / adv, it expresses the present or an unseparable action
+			(basically very similar to the -ing form in English when used
+			as adj/adv)
+			note when used as adj remember to add the appropriate adj endings:
+			e.g.
+				Er kommt zu mir tanzend.
+					He came to me dancing. (adv)
+				Die kochende Suppe ist sehr heiß.
+					The boiling soup is very hot. (adj)
+					(note the -e attached to kochend for nominativ female noun Suppe)
+				
+			Note that sometimes you want to use Partizip I on a verb phrase that
+				has other parts
+				(reflexiv verb with sich, normal verb phrase with prepositions / adv, ...)
+				you just keep those parts in front of the Partizip I
+			e.g.		
+				Die sich verwöhnende Frau
+					The self-indulging women (reflexiv)
+				Gibst du mir das auf dem Tisch liegende Buch?
+					Can you give me the book lying on the table?
+					(with prepostion "auf dem Tisch")
+					
+			Partizip I is also closely related to some nouns that represent
+				the actor of the action, by adding -e / -en (male / femail & plural)
+				e.g.
+					reisen -> reisend -> ein reisender / eine Reisende
+					travel -> travelling -> a traveller
+					Sie traf in dem Hotel einen anderen Reisenden.
+						She met at the hotel another traveler
+			
+			
+		
+	
+
+
 	past tense:
 		for past tense we may use the Präteritum form
 		it is usually on written documents though
@@ -1165,10 +1211,18 @@ Genitiv case:
 			Die Freundin von meinem Bruder (my brother's girlfriend)
 
 	there are also genitiv prepositions:
-	wärend: during, wegen: because of, trotz: despite of
+		wärend: during, wegen: because of, trotz: despite of
+		aufgrund: because of, (an)statt: instead of, anstelle: instead of
+		(note: anstelle is primarily used when speaking about people, but it is
+		not that strict...)
 	e.g.
 		Wärend des Unterrichts ist er eingeschlafen.
-			He fell asleep during the class (Wärend + genitiv)
+			He fell asleep during the class
+	note for aufgrund, anstelle can also be brought together with von + dativ
+		which will be equivalent to genitiv preposition
+	e.g.
+		Ich bestelle fünfzig anstelle von fünf Büchern
+			I buy fity instead of five books
 
 	there are verbs that are followed by genitivs:
 	explanation in later courses though...
