@@ -576,8 +576,31 @@ verbs
 						She met at the hotel another traveler
 			
 			
-		
-	
+		Partizip II:
+			to form Partizip II, the rule has already been noted above when talked about perfect tense
+			it is used in perfect tenses and passive tenses as noted in 
+				above and below
+			when used as adj / adv, it expresses a completed action, or an
+				outcome, again when used as adj, remember to add endings
+			e.g.
+				Die Flasche steht geöffnet auf dem Tisch.
+					The bottle is open on the table (adv, stands opened)
+				Die gebratenen Nudeln sind sehr lecker.
+					The cooked soup is very hot. (adj)
+				Den Geschmack gekochter Eier mag ich sehr.
+					I really like the taste of the cooked egg.
+					(adj, with genitiv ending for gekocht)
+				Das vor einer Stunde bestrafte Mädchen is sauer.
+					The girl who has been pushished an hour ago 
+						is angry.
+					(similar to Partizip I, you can attach any 
+					other parts of the verb phrase to the front
+					when using Partizip II)
+
+			similar to Partizip I, it is also closely related to the nouns
+				after adding -er or -e
+			e.g.
+				verletzen -> verletzt -> Verletzter / Verletzte  
 
 
 	past tense:
@@ -651,8 +674,8 @@ verbs
 	passive tense:
 		there are two passive cases:
 			Vorgangspassiv:
-				werden + verb's past perfect
-				past perfect pushed to the end
+				werden + verb's Partizip II
+				Partizip II pushed to the end
 				e.g.
 					Sein Onkel wird morgen abgeholt.
 						His uncle will be picked up tomorrow
@@ -694,8 +717,27 @@ verbs
 					Es wird seit 3 Stunden gewartet.
 						3 hours is waited (another way to say the previous example)
 			Zustandspassiv:
-				to come...
-	
+				use sein as help verb
+					note this makes it exactly the same form 
+					as perfect tense with help verb sind, but
+					I guess it can be distinguished semantically...
+				often is the result of a process, and represents
+					the state after an action is done
+				(Zustand means state / condition)
+				e.g.
+					Die Kartoffeln werden geschält.
+					Die Kartoffeln sind geschält.
+						The potatoes are being peeled (Vorgangspassiv)
+						The potatoes are (already) peeled (Zustandspassiv)
+				
+
+				note when you use Zustandpassiv, it has to enter a new state
+				verbs like hören, sehen, ... do not use Zustandspassiv as they purely	
+				represent an action
+				e.g.
+					Musik wird gehört.
+						The music is being heard
+						(never use ist gehört)
 separable verbs:
 	prefix + normal verb, the prefix changes the meaning of the verb
 	
