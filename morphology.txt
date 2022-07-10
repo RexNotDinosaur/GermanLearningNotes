@@ -738,6 +738,76 @@ verbs
 					Musik wird gehört.
 						The music is being heard
 						(never use ist gehört)
+	Konjunktiv II:
+		It usually represents situations that are hypothetical instead of real facts
+		It can also be used to politely make requests or give advice
+		e.g.
+			Wenn ich Geld hätte, würde ich mir ein Haus kaufen.
+				If I had money, I would buy a house.
+				(currently have no money so unreal situations)
+			
+			Wenn ich nur fliegen könnte.
+				If only I could fly.
+				(unreal situations) 
+
+			Wenn es heute nicht regnen würde, könnte ich joggen gehen.
+				If it did not rain today, I could have gone jogging.
+				(making assumptions)
+			
+			Er ist so erschrocken, als ob er einen Geist gesehen hätte.
+				He looks so shocked as if he saw a ghost.
+
+			Wie wäre es, wenn wir um 8 Uhr anfangen würden?
+				How about we start at 8? 
+				(suggestions)
+			
+			Dürfte ich etwas fragen?
+				Could I ask something?
+				(making requests)
+
+			
+		to form Konjunktiv II:
+			for help verbs:
+				add a umlaut to the Präteritum form and add an ending -e (if not already having one)
+				sein -> war -> wäre
+					ich wäre, du wär(e)st, Sie wären, er/sie/es wäre
+					wir wären, ihr wär(e)t, Sie wären, sie wären
+					
+				haben -> hatte -> hätte
+					ich hätte, du hättest, Sie hätten, er/sie/es hätte
+					wir hätten, ihr hättet, Sie hätten, sie hätten
+			
+				similarly for werden -> wurde -> würde
+	
+				for modal verbs sollen and wollen are used without umlaut
+					ich wollte/sollte, du wolltest/solltest, Sie wollten / sollten, er/sie/es wollte/sollte
+					wir wollten/sollten, ihr wolltet/solltet, Sie wollten / sollten, sie wollten / sollten
+				while mögen becomes möchte
+					ich möchte. du möchtest, Sie möchten, er/sie/es möchte
+					wir möchten, ihr möchtet, Sie möchten, sie möchten
+					
+				other modal verbs as the rule states
+				können->konnte->könnte
+					ich könnte, du könntest, Sie könnten, er/sie/es könnte
+					wir könnten, ihr könntet, Sie könnten, sie könnten
+					
+					...
+
+			weak verbs:
+				refer to verbs that form Konjunktiv II without umlaut
+				preferably using würde + infinitiv though
+				e.g.
+					sagen ->  sagte, but prefer to use würde sagen
+
+			strong and mixed verbs:
+				form Konjunktiv II with umlaut on a, o, u and the ending -e
+				can also used in würde + infinitiv form
+				kommen -> käme
+				ich käme, du käm(e)st, Sie kämen, er/sie/es käme
+				wir kämen, ihr käm(e)t, Sie kämen, sie kämen
+			
+			
+
 separable verbs:
 	prefix + normal verb, the prefix changes the meaning of the verb
 	
@@ -782,7 +852,7 @@ non-separable verbs:
 	note that separable verbs are not the only verbs that have the forms with
 		prefix + stem, some of the verbs have such form but are not separable
 
-	here are certain prefixes that do this:
+	here are some of prefixes that do this:
 	be-
 		e.g.
 			Wir bekommen bald eine neue Lehrerin. (bekommen: to get)
