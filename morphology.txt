@@ -740,15 +740,19 @@ verbs
 						(never use ist gehört)
 	Konjunktiv II:
 		It usually represents situations that are hypothetical instead of real facts
+			(assumptions, dreams, wishes, certain exaggrated metaphors...)
 		It can also be used to politely make requests or give advice
+		note that when expressing wishes and dreams, it can start with wenn,
+			and together with nur, doch, ... it can express "if only"
+			but that is not mandatory...
 		e.g.
 			Wenn ich Geld hätte, würde ich mir ein Haus kaufen.
 				If I had money, I would buy a house.
-				(currently have no money so unreal situations)
+				(currently have no money so wishes)
 			
 			Wenn ich nur fliegen könnte.
 				If only I could fly.
-				(unreal situations) 
+				(dreams / wishes) 
 
 			Wenn es heute nicht regnen würde, könnte ich joggen gehen.
 				If it did not rain today, I could have gone jogging.
@@ -756,6 +760,7 @@ verbs
 			
 			Er ist so erschrocken, als ob er einen Geist gesehen hätte.
 				He looks so shocked as if he saw a ghost.
+				(metaphor)
 
 			Wie wäre es, wenn wir um 8 Uhr anfangen würden?
 				How about we start at 8? 
@@ -805,7 +810,22 @@ verbs
 				kommen -> käme
 				ich käme, du käm(e)st, Sie kämen, er/sie/es käme
 				wir kämen, ihr käm(e)t, Sie kämen, sie kämen
-			
+
+			to represent the past in Konjunktiv II:
+				use perfect:
+					hätte/wäre + Partizip II 
+				e.g.
+					Hätte ich dich doch dur angerufen.
+						If only I had called you.
+					Wärst du doch mitgekommen!
+						Only if you would have came along!
+
+				note for modal verbs after hätte, we use the infinitiv form of the modal verb instead
+				e.g.
+					Du hättest mir die Wahrheit sagen müssen.
+						You should have told me the truth.
+					Du hättest früher kommen können.
+						You could have come earlier.
 			
 
 separable verbs:
