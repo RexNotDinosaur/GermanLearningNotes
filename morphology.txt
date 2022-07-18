@@ -1347,6 +1347,11 @@ Genitiv case:
 		aufgrund: because of, (an)statt: instead of, anstelle: instead of
 		(note: anstelle is primarily used when speaking about people, but it is
 		not that strict...)
+		außerhalb (outside, both in terms of position, or situation (e,g, outside office hour)), 
+		innerhalb (within, inside), 
+		laut (as per, according to), 
+		mithilfe (with the help of), 
+		zufolge (as a result of, as consequence of, mostly used with dativ and placed after noun though...)
 	e.g.
 		Wärend des Unterrichts ist er eingeschlafen.
 			He fell asleep during the class
